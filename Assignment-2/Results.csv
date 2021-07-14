@@ -1,0 +1,2001 @@
+,id,city,country,continent,current_temp,current_humidity
+0,1,Algarve,Portugal,Europe,26,45
+1,2,Amsterdam,Netherlands,Europe,18,88
+2,3,Antalya,Turkey,Europe,34,50
+3,4,Auckland,New Zealand,ANZ,8,87
+4,5,Baden Baden,Germany,Europe,17,88
+5,6,Bangkok,Thailand,Asia,28,89
+6,7,Barcelona,Spain,Europe,24,54
+7,8,Beijing,China,Asia,29,84
+8,9,Bentota,Sri Lanka,Asia,29,79
+9,10,Bergen,Norway,Europe,19,94
+10,11,Billund,Denmark,Europe,27,58
+11,12,Budapest,Hungary,Europe,34,34
+12,13,Cappadocia,Turkey,Europe,27,54
+13,14,Christchurch,New Zealand,ANZ,10,50
+14,15,Colombo,Sri Lanka,Asia,29,79
+15,16,Copenhagen,Denmark,Europe,27,70
+16,17,Costa Brava,Spain,Europe,26,45
+17,19,Dambulla,Sri Lanka,Asia,31,52
+18,20,Dubai,United Arab Emirates,Asia,39,48
+19,21,Edinburgh,Scotland,Europe,20,64
+20,22,Florencee,USA,North America,0,0
+21,23,Fort William,Scotland,Europe,15,94
+22,24,Galle,Sri Lanka,Asia,0,0
+23,25,Gili Island,Indonesia,Asia,0,0
+24,26,Glencoe,Scotland,Europe,0,0
+25,27,Granada,Spain,Europe,0,0
+26,28,Hague,Netherlands,Europe,0,0
+27,29,Hallstatt,Austria,Europe,0,0
+28,30,Helsinki,Finland,Europe,0,0
+29,31,Hong Kong,Hong Kong,Asia,0,0
+30,32,Innsbruck,Austria,Europe,0,0
+31,33,Inverness,United Kingdom,Europe,0,0
+32,34,Istanbul,Turkey,Europe,0,0
+33,35,Kandy,Sri Lanka,Asia,0,0
+34,36,Koh Samui,Thailand,Asia,0,0
+35,37,Koh Tao,Thailand,Asia,0,0
+36,38,Krabi,Thailand,Asia,0,0
+37,39,Kuala lumpur,Malaysia,Asia,0,0
+38,40,Kusadasi,Turkey,Europe,0,0
+39,41,Kuta,Indonesia,Asia,0,0
+40,42,La Spezia,Italy,Europe,0,0
+41,43,Lima,Peru,South America,0,0
+42,44,Ljubljana,Slovenia,Europe,0,0
+43,45,London,United Kingdom,Europe,0,0
+44,46,Lucerne,Switzerland,Europe,0,0
+45,47,Macau,China,Asia,0,0
+46,48,Madrid,Spain,Europe,0,0
+47,49,Male,Maldives,Asia,0,0
+48,50,Moscow,Russia,Europe,0,0
+49,51,Mount Cook,New Zealand,ANZ,0,0
+50,52,Naples,USA,North America,0,0
+51,53,Nice,France,Europe,0,0
+52,54,Nusa Dua,Indonesia,Asia,0,0
+53,55,Nuwara Eliya,Sri Lanka,Asia,0,0
+54,56,Oslo,Norway,Europe,0,0
+55,57,Pamukkale,Turkey,Europe,0,0
+56,58,Paris,France,Europe,0,0
+57,59,Paro,Bhutan,Asia,0,0
+58,60,Pattaya,Thailand,Asia,0,0
+59,61,Phnom Penh,Cambodia,Asia,0,0
+60,62,Phuket,Thailand,Asia,0,0
+61,63,Pisa,Italy,Europe,0,0
+62,64,Portree,Scotland,Europe,0,0
+63,65,Punakha,Bhutan,Asia,0,0
+64,67,Queenstown,Australia,ANZ,0,0
+65,68,Riomaggiore,Italy,Europe,0,0
+66,69,Rome,Italy,Europe,0,0
+67,70,Salzburg,Austria,Europe,0,0
+68,71,Seminyak,Indonesia,Asia,0,0
+69,72,Sevilla,Spain,Europe,0,0
+70,73,Shanghai,China,Asia,0,0
+71,74,Siem Reap,Cambodia,Asia,0,0
+72,75,Singapore,Singapore,Asia,0,0
+73,76,St. Petersburg,Russia,Europe,0,0
+74,77,Stockholm,Sweden,Europe,0,0
+75,78,Thimphu,Bhutan,Asia,0,0
+76,79,Ubud,Indonesia,Asia,0,0
+77,80,Valencia,Spain,Europe,0,0
+78,81,Venice,Italy,Europe,0,0
+79,82,Vienna,Austria,Europe,0,0
+80,83,Zell am see,Austria,Europe,0,0
+81,84,Zurich,Switzerland,Europe,0,0
+82,85,Rotorua,New Zealand,ANZ,0,0
+83,86,Taupo,New Zealand,Oceania,0,0
+84,87,Nadi,Fiji,Oceania,0,0
+85,88,Izmir,Turkey,Europe,0,0
+86,89,Malaga,Spain,Europe,0,0
+87,90,Antwerp,Belgium,Europe,0,0
+88,91,Kayseri,Turkey,Europe,0,0
+89,92,Ayers Rock,Australia,ANZ,0,0
+90,93,Newcastle,Australia,ANZ,0,0
+91,94,Krakow,Poland,Europe,0,0
+92,95,Wroclaw,Poland,Europe,0,0
+93,96,Tromso,Norway,Europe,0,0
+94,97,Northern lights,Norway,Europe,0,0
+95,98,Lofoten Islands,Norway,Europe,0,0
+96,99,Mauritius,Mauritius,Africa,0,0
+97,100,Melbourne,Australia,ANZ,0,0
+98,101,Cairns,Australia,ANZ,0,0
+99,102,Port Campbell,Australia,Australia,0,0
+100,103,Gold Coast,Australia,ANZ,0,0
+101,104,Sydney,Australia,ANZ,0,0
+102,111,Berlin,Germany,Europe,0,0
+103,112,Bilbao,Spain,Europe,0,0
+104,113,Bodrum,Turkey,Europe,0,0
+105,114,Bologna,Italy,Europe,0,0
+106,115,Brisbane,Australia,ANZ,0,0
+107,116,Bordeaux,France,Europe,0,0
+108,117,Brussels,Belgium,Europe,0,0
+109,118,Basel,Switzerland,Europe,0,0
+110,119,Bratislava,Slovakia,Europe,0,0
+111,120,Bucharest,Romania,Europe,0,0
+112,121,Cagliari,Italy,Europe,0,0
+113,122,Canberra,Australia,ANZ,0,0
+114,123,Cebu,Philippines,Asia,0,0
+115,124,Donegal,Ireland,Europe,0,0
+116,125,Corfu,Greece,Europe,0,0
+117,126,Cologne,Germany,Europe,0,0
+118,127,Chania,Greece,Europe,0,0
+119,128,Chiang Mai,Thailand,Asia,0,0
+120,129,Cape Town,South Africa,Africa,0,0
+121,130,Cooktown,Australia,ANZ,0,0
+122,131,Cardiff,United Kingdom,Europe,0,0
+123,132,Dubrovnik,Croatia,Europe,0,0
+124,133,Disneyland Paris,France,Europe,0,0
+125,134,Duesseldorf,Germany,Europe,0,0
+126,135,San Sebastian,Spain,Europe,0,0
+127,136,Ghent,Belgium,Europe,0,0
+128,137,Geneva,Switzerland,Europe,0,0
+129,138,Hanoi,Vietnam,Asia,0,0
+130,139,Whitsunday Islands,Australia,Australia,0,0
+131,140,Hobart,Australia,ANZ,0,0
+132,141,Frankfurt,Germany,Europe,0,0
+133,142,Hiroshima,Japan,Asia,0,0
+134,143,Hamilton,Australia,ANZ,0,0
+135,144,Tokyo,Japan,Asia,0,0
+136,145,Ibiza,Spain,Europe,0,0
+137,146,Kiev,Ukraine,Europe,0,0
+138,147,Irkutsk,Russia,Europe,0,0
+139,148,Osaka,Japan,Asia,0,0
+140,149,Jakarta,Indonesia,Asia,0,0
+141,150,Mykonos,Greece,Europe,0,0
+142,151,Santorini,Greece,Europe,0,0
+143,153,Kiel,Germany,Europe,0,0
+144,154,Kathmandu,Nepal,Asia,0,0
+145,156,Langkawi,Malaysia,Asia,0,0
+146,157,Milan,Italy,Europe,0,0
+147,158,Lisbon,Portugal,Europe,0,0
+148,159,Lakselv,Norway,Europe,0,0
+149,160,Liverpool,United Kingdom,Europe,0,0
+150,161,Lyon,France,Europe,0,0
+151,162,Manchester,United Kingdom,Europe,0,0
+152,163,Montpellier,France,Europe,0,0
+153,164,Marseille,France,Europe,0,0
+154,165,Nairobi,Kenya,Africa,0,0
+155,166,Nagasaki,Japan,Asia,0,0
+156,167,Plettenberg Bay,South Africa,Africa,0,0
+157,168,Perth,Australia,ANZ,0,0
+158,169,Port Elizabeth,South Africa,Africa,0,0
+159,170,Palma de Mallorca,Spain,Europe,0,0
+160,171,Portland,Australia,ANZ,0,0
+161,172,Seoul,South Korea,Asia,0,0
+162,173,Saigon,Vietnam,Asia,0,0
+163,174,Thessaloniki,Greece,Europe,0,0
+164,175,Sodankyl„,Finland,Europe,0,0
+165,176,Split,Croatia,Europe,0,0
+166,177,Strasbourg,France,Europe,0,0
+167,178,Turin,Italy,Europe,0,0
+168,179,Warsaw,Poland,Europe,0,0
+169,180,Wellington,New Zealand,ANZ,0,0
+170,181,Zagreb,Croatia,Europe,0,0
+171,182,Zaragoza,Spain,Europe,0,0
+172,183,Zakynthos,Greece,Europe,0,0
+173,184,Sentosa,Singapore,Asia,0,0
+174,185,Cordoba,Spain,Europe,0,0
+175,186,Crete,Greece,Europe,0,0
+176,187,Weggis,Switzerland,Europe,0,0
+177,188,Montreux,Switzerland,Europe,0,0
+178,190,Zermatt,Switzerland,Europe,0,0
+179,191,Chamonix,France,Europe,0,0
+180,192,Sorrento,Italy,Europe,0,0
+181,195,Hoi An,Vietnam,Asia,0,0
+182,196,Kruger Park,South Africa,Africa,0,0
+183,197,Knysna,South Africa,Africa,0,0
+184,198,Victoria Falls,South Africa,Africa,0,0
+185,199,Munich,Germany,Europe,0,0
+186,200,prague,Czech Republic,Europe,0,0
+187,201,Flam,Norway,Europe,0,0
+188,202,Voss,Norway,Europe,0,0
+189,203,Cuba,Caribbean,South America,0,0
+190,204,Oudtshoorn,South Africa,Africa,0,0
+191,205,Sun City,South Africa,Africa,0,0
+192,206,Havana,cuba,North America,0,0
+193,207,Vinales,CUba,North America,0,0
+194,208,Trinidad,cuba,North America,0,0
+195,209,Cienfuegos,cuba,North America,0,0
+196,210,Varadero,cuba,North America,0,0
+197,211,Playa Larga,cuba,North America,0,0
+198,212,Lake Tekapo,New Zealand,ANZ,0,0
+199,214,Lusaka,Zambia,Africa,0,0
+200,215,Wanaka,New Zealand,Oceania,0,0
+201,216,Fox Glacier,New Zealand,Oceania,0,0
+202,217,Greymouth,New Zealand,Oceania,0,0
+203,218,Florence,Italy,Europe,0,0
+204,219,Chur,Switzerland,Europe,0,0
+205,220,Lugano,Switzerland,Europe,0,0
+206,221,Interlaken,Switzerland,Europe,0,0
+207,222,Mexico City,Mexico,North America,0,0
+208,223,Toronto,Canada,North America,0,0
+209,224,Buenos aires,ARGENTINA,South America,0,0
+210,226,Athens,Greece,Europe,0,0
+211,227,Guangzhou,Hong Kong,Asia,0,0
+212,228,Praslin,Seychelles,Africa,0,0
+213,229,Mahe,Seychelles,Africa,0,0
+214,230,Engelberg,Switzerland,Europe,0,0
+215,231,Xian,China,Asia,0,0
+216,232,Jaipur,India,Asia,0,0
+217,233,Udaipur,India,Asia,0,0
+218,234,Jodhpur,India,Asia,0,0
+219,235,Jaisalmer,India,Asia,0,0
+220,236,Romsey,Australia,Oceania,0,0
+221,237,Wien,Austria,Europe,0,0
+222,238,Goreme,Turkey,Europe,0,0
+223,239,Negombo,Sri Lanka,Asia,0,0
+224,240,Trincomalee,Sri Lanka,Asia,0,0
+225,241,Kataragama,Sri Lanka,Asia,0,0
+226,242,Yala,Sri Lanka,Asia,0,0
+227,243,Manila,Philippines,Asia,0,0
+228,244,Boracay Islands,Philippines,Asia,0,0
+229,245,Porto,Portugal,Europe,0,0
+230,246,Azores,Portugal,Europe,0,0
+231,247,Havelock,India,Asia,0,0
+232,248,Franz Josef,New Zealand,Oceania,0,0
+233,249,Port Blair,India,Asia,0,0
+234,250,Lapland,Finland,Europe,0,0
+235,251,Waitamo,New Zealand,Oceania,0,0
+236,252,Jyvaskyla,Finland,Europe,0,0
+237,253,Vasteras,Sweden,Europe,0,0
+238,254,Penang,Malaysia,Asia,0,0
+239,255,Doubtful Sound,New Zealand,ANZ,0,0
+240,256,Hvar,Croatia,Europe,0,0
+241,257,Muscat,Oman,Asia,0,0
+242,259,Adelaide,Australia,Australia,0,0
+243,261,Munnar,India,Asia,0,0
+244,262,Varkala,India,Asia,0,0
+245,263,Kovalam,India,Asia,0,0
+246,264,Casablanca,Morocco,Africa,0,0
+247,266,Fes,Morocco,Africa,0,0
+248,267,Marrakech,Morocco,Africa,0,0
+249,268,Delhi,India,Asia,0,0
+250,269,Agra,India,Asia,0,0
+251,270,Pushkar,India,Asia,0,0
+252,271,Amritsar,India,Asia,0,0
+253,272,Aurangabad,India,Asia,0,0
+254,273,Cochin,India,Asia,0,0
+255,274,Kumarakom,India,Asia,0,0
+256,275,Bintan Island,Indonesia,Asia,0,0
+257,276,Ella,Sri Lanka,Asia,0,0
+258,277,Coonawara,Australia,Australia,0,0
+259,278,El Nido,Philippines,Asia,0,0
+260,279,Palawan,Philippines,Asia,0,0
+261,280,Te Anau,New Zealand,Oceania,0,0
+262,281,Milford Sound,New Zealand,Oceania,0,0
+263,282,Dunedin,New Zealand,Oceania,0,0
+264,283,Hamilton Island,Australia,Australia,0,0
+265,284,Te Anau,New Zealand,ANZ,0,0
+266,285,Dunedin,New Zealand,ANZ,0,0
+267,286,Marlborough Sounds,New Zealand,ANZ,0,0
+268,287,Marlborough,New Zealand,Oceania,0,0
+269,288,Kaikoura,New Zealand,ANZ,0,0
+270,289,Picton,New Zealand,ANZ,0,0
+271,290,Kalambaka,Greece,Europe,0,0
+272,291,Delphi,Greece,Europe,0,0
+273,292,Karlsruhe,Germany,Europe,0,0
+274,293,Aachen,Germany,Europe,0,0
+275,294,Leipzig,Germany,Europe,0,0
+276,295,Jimbaran,Indonesia,Asia,0,0
+277,296,Seville,Spain,Europe,0,0
+278,297,Wengen,Switzerland,Europe,0,0
+279,298,Gili Trawangan,Indonesia,Asia,0,0
+280,299,Unawatuna,Sri Lanka,Asia,0,0
+281,300,Chennai,India,Asia,0,0
+282,301,Mahabalipuram,India,Asia,0,0
+283,302,Pondicherry,India,Asia,0,0
+284,303,Madurai,India,Asia,0,0
+285,304,Kochi,India,Asia,0,0
+286,305,Bangalore,India,Asia,0,0
+287,306,Mysore,India,Asia,0,0
+288,307,Hikkaduwa,Sri Lanka,Asia,0,0
+289,308,Cinque Terre,Italy,Europe,0,0
+290,310,Odda,Norway,Europe,0,0
+291,311,Phi Phi island,Thailand,Asia,0,0
+292,312,Ko Lanta,Thailand,Asia,0,0
+293,313,Monaco,France,Europe,0,0
+294,314,Cannes,France,Europe,0,0
+295,316,Atlantic City,USA,USA,0,0
+296,317,Niagara Falls,USA,USA,0,0
+297,320,Majorca,Spain,Europe,0,0
+298,321,Cairo,Egypt,Africa,0,0
+299,322,Paro,Bhutan,Asia,0,0
+300,323,Bay of islands,New Zealand,ANZ,0,0
+301,325,Tutukaka,New Zealand,ANZ,0,0
+302,326,Paihia,New Zealand,ANZ,0,0
+303,327,Koh Phangan,Thailand,Asia,0,0
+304,328,Denpasar Bali,Indonesia,Asia,0,0
+305,329,Coromandel Town,New Zealand,ANZ,0,0
+306,330,Queenstown ,New Zealand,ANZ,0,0
+307,331,Mumbai,India,Asia,0,0
+308,332,Naples,Italy,Europe,0,0
+309,333,Waiheke Island ,New Zealand,ANZ,0,0
+310,334,Weligama,Sri Lanka,Asia,0,0
+311,335,Glenorchy,New Zealand,ANZ,0,0
+312,336,Kolkata,India,Asia,0,0
+313,337,Corinth,Greece,Europe,0,0
+314,338,Nafplion,Greece,Europe,0,0
+315,339,Hahei,New Zealand,ANZ,0,0
+316,340,Hyderabad,India,Asia,0,0
+317,341,Foshan,China,Asia,0,0
+318,342,Tulamben,Indonesia,Asia,0,0
+319,343,Luxembourg,Luxembourg,Europe,0,0
+320,344,Menorca,Spain,Europe,0,0
+321,345,CHandigarh,India,Asia,0,0
+322,346,Shimla,India,Asia,0,0
+323,347,Manali,India,Asia,0,0
+324,348,Canggu,Indonesia,Asia,0,0
+325,349,Windermere,United Kingdom,Europe,0,0
+326,350,San Francisco,USA,North America,0,0
+327,351,Yosemite,USA,North America,0,0
+328,352,Los Angeles,USA,North America,0,0
+329,353,Las Vegas,USA,North America,0,0
+330,354,Miami,USA,North America,0,0
+331,355,New York,USA,North America,0,0
+332,356,Atlantic City,USA,North America,0,0
+333,357,Niagara,USA,North America,0,0
+334,358,Johannesburg,South Africa,Africa,0,0
+335,359,Taman Negara,Malaysia,Asia,0,0
+336,360,Capri,Italy,Europe,0,0
+337,361,Monterosso,Italy,Europe,0,0
+338,362,Paihai,New Zealand,ANZ,0,0
+339,363,Mirissa,Sri Lanka,Asia,0,0
+340,364,Punakaiki,New Zealand,ANZ,0,0
+341,365,Nice,Italy,Europe,0,0
+342,366,Livingstone,Zambia,Africa,0,0
+343,367,Abu Dhabi,United Arab Emirates,Asia,0,0
+344,368,Sanur,Indonesia,Asia,0,0
+345,369,Amed,Indonesia,Asia,0,0
+346,370,Lombok,Indonesia,Asia,0,0
+347,371,Kalabaka,Greece,Europe,0,0
+348,372,Bruges,Belgium,Europe,0,0
+349,373,Saariselka,Finland,Europe,0,0
+350,374,Edinburgh,United Kingdom,Europe,0,0
+351,375,Bath,United Kingdom,Europe,0,0
+352,376,New Castle,United Kingdom,Europe,0,0
+353,378,Newcastle,United Kingdom,Europe,0,0
+354,379,Luang Prabang	,Lao People's Democratic Republic,Asia,0,0
+355,381,Alesund,Norway,Europe,0,0
+356,382,Longyearbyen,Norway,Europe,0,0
+357,383,Trondheim,Norway,Europe,0,0
+358,384,Canakkale,Turkey,Europe,0,0
+359,385,George,South Africa,Africa,0,0
+360,386,Hella,Iceland,Europe,0,0
+361,387,Vik,Iceland,Europe,0,0
+362,388,Srinagar,India,Asia,0,0
+363,389,Pahalgam,India,Asia,0,0
+364,390,Dublin,Ireland,Europe,0,0
+365,392,Reine,Norway,Europe,0,0
+366,393,Reykjavik,Iceland,Europe,0,0
+367,394,Kristiansund,Norway,Europe,0,0
+368,395,Bodo,Norway,Europe,0,0
+369,396,Doha,Qatar,Asia,0,0
+370,397,Kiruna,Sweden,Europe,0,0
+371,398,Jukkasjarvi,Sweden,Europe,0,0
+372,399,Jokkmokk,Sweden,Europe,0,0
+373,400,Lulea,Sweden,Europe,0,0
+374,403,Atlanta,USA,North America,0,0
+375,404,Orlando,USA,North America,0,0
+376,405,Bahamas,USA,North America,0,0
+377,406,Buffalo,USA,North America,0,0
+378,408,Sao Paulo,brazil,South America,0,0
+379,409,Iguassu,brazil,South America,0,0
+380,410,Rio de Janeiro,brazil,South America,0,0
+381,411,Cusco,Peru,South America,0,0
+382,412,Puno,Peru,South America,0,0
+383,413,Iquitos,Peru,South America,0,0
+384,414,Amazon,Peru,South America,0,0
+385,415,El Calafate,ARGENTINA,South America,0,0
+386,416,Coimbatore,India,Asia,0,0
+387,417,Bagdogra,India,Asia,0,0
+388,418,Galway,Ireland,Europe,0,0
+389,419,Montecatini Terme,Italy,Europe,0,0
+390,420,Giants Causeway,Ireland,Europe,0,0
+391,421,Belfast,Ireland,Europe,0,0
+392,422,Giant's Causeway,Ireland,Europe,0,0
+393,423,Invergarry,Scotland,Europe,0,0
+394,424,Adare,Ireland,Europe,0,0
+395,425,Sihanoukville,Cambodia,Asia,0,0
+396,426,Kerobokan,Indonesia,Asia,0,0
+397,427,Kyoto,Japan,Asia,0,0
+398,428,Seattle,USA,North America,0,0
+399,429,Utah,USA,North America,0,0
+400,430,Bern,Switzerland,Europe,0,0
+401,432,St Moritz,Switzerland,Europe,0,0
+402,433,Lausanne,Switzerland,Europe,0,0
+403,434,Murcia,Spain,Europe,0,0
+404,435,Geysir,Ireland,Europe,0,0
+405,436,Selfoss,Iceland,Europe,0,0
+406,437,Lambafell,Iceland,Europe,0,0
+407,438,Vik,Ireland,Europe,0,0
+408,439,Da Nang,Vietnam,Asia,0,0
+409,440,Ho Chi Minh,Vietnam,Asia,0,0
+410,441,Tiruchirappalli,India,Asia,0,0
+411,442,Brno,Czech Republic,Europe,0,0
+412,443,Whangarei,New Zealand,ANZ,0,0
+413,444,Ahmedabad,India,Asia,0,0
+414,445,Mount Kenya National Park,Kenya,Africa,0,0
+415,446,Shaba National Reserve,Kenya,Africa,0,0
+416,447,Lake Nakuru National Park,Kenya,Africa,0,0
+417,448,Masai Mara Game Reserve,Kenya,Africa,0,0
+418,449,Zamosc,Poland,Europe,0,0
+419,450,Amalfi Coast,Italy,Europe,0,0
+420,451,Zakopane,Poland,Europe,0,0
+421,452,Bora Bora,New Zealand,ANZ,0,0
+422,453,Papeete,New Zealand,ANZ,0,0
+423,454,Moorea,New Zealand,ANZ,0,0
+424,455,Chicago,USA,North America,0,0
+425,456,Grand Canyon,USA,North America,0,0
+426,457,Waitomo Caves,New Zealand,ANZ,0,0
+427,458,Whakatane,New Zealand,ANZ,0,0
+428,459,Tauranga,New Zealand,ANZ,0,0
+429,460,Sarajevo,Bosnia and Herzegovina,Europe,0,0
+430,461,Plitvice,Croatia,Europe,0,0
+431,462,Stavanger,Norway,Europe,0,0
+432,463,Geiranger,Norway,Europe,0,0
+433,464,Nelson,New Zealand,ANZ,0,0
+434,465,Mount Tongariro,New Zealand,ANZ,0,0
+435,466,Como,Italy,Europe,0,0
+436,467,Pienza,Italy,Europe,0,0
+437,469,Tongariro National Park,New Zealand,ANZ,0,0
+438,470,Vilnius,Lithuania,Europe,0,0
+439,471,Riga,Latvia,Europe,0,0
+440,472,Eidfjord,Norway,Europe,0,0
+441,473,Sandakan,Malaysia,Asia,0,0
+442,474,Kota Kinabalu,Malaysia,Asia,0,0
+443,475,heraklion,Greece,Europe,0,0
+444,476,Whitianga,New Zealand,ANZ,0,0
+445,477,Auckland Airport,New Zealand,ANZ,0,0
+446,479,York,United Kingdom,Europe,0,0
+447,480,Oban,Scotland,Europe,0,0
+448,481,Siena,Italy,Europe,0,0
+449,482,Beauvais,France,Europe,0,0
+450,483,Pune,India,Asia,0,0
+451,484,Medell¡n,colombia,North America,0,0
+452,485,Boracay,Philippines,Asia,0,0
+453,486,Matinloc Island,Philippines,Asia,0,0
+454,487,Macau,Hong Kong,Asia,0,0
+455,488,Goa_duplicate,India,Asia,0,0
+456,489,Akureyri,Iceland,Europe,0,0
+457,490,Geysir,Iceland,Europe,0,0
+458,491,Husavik,Iceland,Europe,0,0
+459,492,Mount Gambier,Australia,Australia,0,0
+460,493,Warranambool,Australia,Australia,0,0
+461,494,Legian,Indonesia,Asia,0,0
+462,495,Burgundy,France,Europe,0,0
+463,496,Monte Carlo,France,Europe,0,0
+464,498,Catania,Italy,Europe,0,0
+465,499,Taormina,Italy,Europe,0,0
+466,500,Toledo,Spain,Europe,0,0
+467,501,Salzkammergut,Austria,Europe,0,0
+468,502,Cesky Krumlov,Czech Republic,Europe,0,0
+469,503,Kutna Hora,Czech Republic,Europe,0,0
+470,504,Karlovy Vary,Czech Republic,Europe,0,0
+471,505,Pilsen,Czech Republic,Europe,0,0
+472,506,Rotterdam,Netherlands,Europe,0,0
+473,507,Maastricht,Netherlands,Europe,0,0
+474,508,Haarlem,Netherlands,Europe,0,0
+475,509,Groningen,Netherlands,Europe,0,0
+476,510,Roermond,Netherlands,Europe,0,0
+477,511,Utrecht,Netherlands,Europe,0,0
+478,512,Leiden,Netherlands,Europe,0,0
+479,513,Delft,Netherlands,Europe,0,0
+480,514,Luang Prabang,Laos,Asia,0,0
+481,515,Logro¤o,Spain,Europe,0,0
+482,516,Ascona,Switzerland,Europe,0,0
+483,517,T„sch,Switzerland,Europe,0,0
+484,518,Visakhapatnam,India,Asia,0,0
+485,519,Hamilton,New Zealand,ANZ,0,0
+486,520,Martinborough,New Zealand,Oceania,0,0
+487,521,Piraeus,Greece,Europe,0,0
+488,522,Makarska,Croatia,Europe,0,0
+489,523,Zadar,Croatia,Europe,0,0
+490,524,Heviz,Hungary,Europe,0,0
+491,525,Gyor,Hungary,Europe,0,0
+492,526,Sopron,Hungary,Europe,0,0
+493,527,Pecs,Hungary,Europe,0,0
+494,528,Szeged,Hungary,Europe,0,0
+495,529,Miskolc,Hungary,Europe,0,0
+496,530,Bremen,Germany,Europe,0,0
+497,531,Glasgow,Scotland,Europe,0,0
+498,532,Birmingham,United Kingdom,Europe,0,0
+499,533,Brighton,United Kingdom,Europe,0,0
+500,534,Leuven,Belgium,Europe,0,0
+501,535,Liege,Belgium,Europe,0,0
+502,536,Ankara,Turkey,Europe,0,0
+503,537,Konya,Turkey,Europe,0,0
+504,538,Ephesus,Turkey,Europe,0,0
+505,539,Malolo Lailai,New Zealand,ANZ,0,0
+506,540,Toulouse ,France,Europe,0,0
+507,541,Geilo,Norway,Europe,0,0
+508,542,Laerdal,Norway,Europe,0,0
+509,544,Alta,Norway,Europe,0,0
+510,545,Jervis Bay,Australia,Australia,0,0
+511,546,Nelspruit,South Africa,Africa,0,0
+512,547,Mossel Bay,South Africa,Africa,0,0
+513,548,Franschhoek,South Africa,Africa,0,0
+514,549,Kaka Point,New Zealand,ANZ,0,0
+515,550,Rovaniemi,Finland,Europe,0,0
+516,551,Vik i Myrdal,Iceland,Europe,0,0
+517,552,Selfoss,Iceland,Europe,0,0
+518,553,Keflavik,Iceland,Europe,0,0
+519,554,Hofn,Iceland,Europe,0,0
+520,555,Offenburg,Germany,Europe,0,0
+521,556,Marbella,Spain,Europe,0,0
+522,557,Udawalawe,Sri Lanka,Asia,0,0
+523,558,Mittersill,Austria,Europe,0,0
+524,559,Blois,France,Europe,0,0
+525,560,Phuntsholing,Bhutan,Asia,0,0
+526,561,Pakse,Laos,Asia,0,0
+527,562,Vientiane,Laos,Asia,0,0
+528,563,Halong bay,Vietnam,Asia,0,0
+529,564,bohol,Philippines,Asia,0,0
+530,565,Paros,Greece,Europe,0,0
+531,566,Ponta Delgada,Portugal,Europe,0,0
+532,567,Washington D.C,USA,USA,0,0
+533,568,Philadelphia,USA,North America,0,0
+534,569,Austin,USA,North America,0,0
+535,570,Shenzhen,China,Asia,0,0
+536,571,Hakone,Japan,Asia,0,0
+537,572,Alporchinhos,Portugal,Europe,0,0
+538,573,Key West,USA,North America,0,0
+539,575,Vernazza,Italy,Europe,0,0
+540,576,Corniglia,Italy,Europe,0,0
+541,577,Manarola,Italy,Europe,0,0
+542,578,Svolvaer,Norway,Europe,0,0
+543,579,Bellagio,Italy,Europe,0,0
+544,580,Dresden,Germany,Europe,0,0
+545,581,Manggis,Indonesia,Asia,0,0
+546,582,Hue,Vietnam,Asia,0,0
+547,583,Ravello,Italy,Europe,0,0
+548,584,Callela del Palagfrugell,Spain,Europe,0,0
+549,585,Costa Brava,Spain,Europe,0,0
+550,586,Boston ,USA,North America,0,0
+551,587,Varenna,Italy,Europe,0,0
+552,588,Manshester,USA,North America,0,0
+553,589,Pittsburgh,USA,North America,0,0
+554,590,Baltimore,USA,North America,0,0
+555,591,La Digue,Seychelles,Africa,0,0
+556,592,Fussen,Germany,Europe,0,0
+557,593,Blyde River Canyon,South Africa,Africa,0,0
+558,594,Lembongan Island,Indonesia,Asia,0,0
+559,595,guilin,China,Asia,0,0
+560,596,Kunming,China,Asia,0,0
+561,597,Grindelwald,Switzerland,Europe,0,0
+562,598,Cork,Ireland,Europe,0,0
+563,599,Amman,Jordan,Asia,0,0
+564,600,Jerash,Jordan,Asia,0,0
+565,601,Petra,Jordan,Asia,0,0
+566,602,Gstaad,Switzerland,Europe,0,0
+567,603,gdansk,Poland,Europe,0,0
+568,604,Lagos,Portugal,Europe,0,0
+569,605,Patreksfj”r?ur,Iceland,Europe,0,0
+570,606,Snaefellsnes,Iceland,Europe,0,0
+571,607,Kalabaka,Greece,Europe,0,0
+572,608,Hermanus,South Africa,Africa,0,0
+573,609,Trivandrum,India,Asia,0,0
+574,610,Vevey,Switzerland,Europe,0,0
+575,611,Silhouette,Seychelles,Africa,0,0
+576,612,Carvoeiro,Portugal,Europe,0,0
+577,613,Silhouette,Seychelles,Africa,0,0
+578,614,Stamsund,Norway,Europe,0,0
+579,615,Lake Manyara	,Tanzania,Africa,0,0
+580,616,Serengetti,Tanzania,Africa,0,0
+581,617,Ngorongoro Crater,Tanzania,Africa,0,0
+582,618,Tarangire National Park,Tanzania,Africa,0,0
+583,619,Grimentz,Switzerland,Europe,0,0
+584,620,Aswan,Egypt,Africa,0,0
+585,621,Kom Ombo,Egypt,Africa,0,0
+586,622,Edfu,Egypt,Africa,0,0
+587,623,Luxor,Egypt,Africa,0,0
+588,624,oban,United Kingdom,Europe,0,0
+589,625,portree,United Kingdom,Europe,0,0
+590,626,Triberg,Germany,Europe,0,0
+591,627,Bacolod,Philippines,Asia,0,0
+592,628,San Diego,USA,USA,0,0
+593,629,Santa Maria,USA,USA,0,0
+594,630,Monterey,USA,USA,0,0
+595,631,Uluru,Australia,ANZ,0,0
+596,632,Dar es Salaam,Tanzania,Africa,0,0
+597,633,Zanzibar,Tanzania,Africa,0,0
+598,635,S?rv gur,Faroe Islands,Europe,0,0
+599,636,Gj¢gv,Faroe Islands,Europe,0,0
+600,637,Klaksv¡k,Faroe Islands,Europe,0,0
+601,638,T¢rshavn,Faroe Islands,Europe,0,0
+602,641,Honolulu,USA,USA,0,0
+603,642,Hilo,USA,USA,0,0
+604,643,Arusha,Tanzania,Africa,0,0
+605,644,Seronera,Tanzania,Africa,0,0
+606,645,Nagpur,India,Asia,0,0
+607,646,Yangon,Myanmar,Asia,0,0
+608,647,Bagan,Myanmar,Asia,0,0
+609,648,Mandalay,Myanmar,Asia,0,0
+610,649,Inle Lake,Myanmar,Asia,0,0
+611,650,Yogyakarta,Indonesia,Asia,0,0
+612,651,Hvolsvollur,Iceland,Europe,0,0
+613,652,Tavira,Portugal,Europe,0,0
+614,653,Faro,Portugal,Europe,0,0
+615,654,Coimbra,Portugal,Europe,0,0
+616,655,Albufeira,Portugal,Europe,0,0
+617,656,Doonbeg,Ireland,Europe,0,0
+618,657,Nagoya,Japan,Asia,0,0
+619,658,Genoa,Italy,Europe,0,0
+620,659,Sheffield,United Kingdom,Europe,0,0
+621,660,Tallinn,Estonia,Europe,0,0
+622,661,Anaheim,USA,North America,0,0
+623,662,Freeport,Bahamas,North America,0,0
+624,663,Hamburg,Germany,Europe,0,0
+625,664,Nassau,Bahamas,North America,0,0
+626,665,BHOPAL,India,Asia,0,0
+627,666,Oludeniz,Turkey,Europe,0,0
+628,667,Bogota,colombia,South America,0,0
+629,668,San Gil,colombia,South America,0,0
+630,670,Cartagena,colombia,South America,0,0
+631,671,Bucaramanga,colombia,South America,0,0
+632,672,Nile Cruise,Egypt,Africa,0,0
+633,673,Bahrain,Bahrain,Asia,0,0
+634,674,Durban,South Africa,Africa,0,0
+635,675,St Lucia,South Africa,,0,0
+636,677,Tel Aviv,Israel,Asia,0,0
+637,678,Jerusalem,Israel,Asia,0,0
+638,680,Bratislava,Slovakia,Europe,0,0
+639,682,Hurghada,Egypt,Middle East,0,0
+640,683,Oetztal,Austria,Europe,0,0
+641,684,Pinhao,Portugal,Europe,0,0
+642,685,Alexandria,Egypt,Middle East,0,0
+643,687,Bl sk¢gabygg?,Iceland,Europe,0,0
+644,688,Kirkjub‘jarklaustur,Iceland,Europe,0,0
+645,690,Negambo,Sri Lanka,Asia,0,0
+646,691,Tenerife,Spain,Europe,0,0
+647,692,Verona,Italy,Europe,0,0
+648,693,Wudang,China,Asia,0,0
+649,694,Crystal River,USA,USA,0,0
+650,695,Chengdu,China,Asia,0,0
+651,697,Fortaleza,Brazil,South America,0,0
+652,698,Manaus,Brazil,South America,0,0
+653,699,Foz do Igua‡u,Brazil,South America,0,0
+654,700,Jericoacoara,Brazil,South America,0,0
+655,701,Savannah,USA,USA,0,0
+656,703,Stuttgart,Germany,Europe,0,0
+657,704,Disney land,Hong Kong,Asia,0,0
+658,705,Egilssta?ir,Iceland,Europe,0,0
+659,706,Bl”ndu¢s,Iceland,Europe,0,0
+660,707,Waterford,Ireland,Europe,0,0
+661,708,County Clare,Ireland,Europe,0,0
+662,709,Galway,Ireland,Europe,0,0
+663,710,County Kerry,Ireland,Europe,0,0
+664,711,Lourdes,France,Europe,0,0
+665,712,Kalpitiya,Sri Lanka,Asia,0,0
+666,713,Pilanesberg,South Africa,Africa,0,0
+667,714,Hoedspruit,South Africa,Africa,0,0
+668,715,Skukuza,South Africa,Africa,0,0
+669,716,Wadi Rum,Jordan,Asia,0,0
+670,717,Dead Sea,Jordan,Asia,0,0
+671,719,Piran,Slovenia,Europe,0,0
+672,720,Bohinjska bistrica,Slovenia,Europe,0,0
+673,721,Neil Island,India,Asia,0,0
+674,722,Pompeii ,Italy,Europe,0,0
+675,723,Naxos,Greece,Europe,0,0
+676,724,Hua Hin,Thailand,Asia,0,0
+677,725,Trang,Thailand,Asia,0,0
+678,726,Trat,Thailand,Asia,0,0
+679,727,Chanthaburi,Thailand,Asia,0,0
+680,728,Chiang Rai,Thailand,Asia,0,0
+681,729,Phetchaburi,Thailand,Asia,0,0
+682,730,Surat Thani,Thailand,Asia,0,0
+683,731,Boom,Belgium,Europe,0,0
+684,732,Killarney,Ireland,Europe,0,0
+685,733,Kefalonia,Greece,Europe,0,0
+686,734,Nha Trang,Vietnam,Asia,0,0
+687,735,Gangtok,India,Asia,0,0
+688,736,Lachung,India,Asia,0,0
+689,737,Darjeeling,India,Asia,0,0
+690,738,Lucknow,India,Asia,0,0
+691,739,Dehradun,India,Asia,0,0
+692,740,Abisko,Sweden,Europe,0,0
+693,741,Aqaba,Jordan,Middle East,0,0
+694,742,Dieppe,France,Europe,0,0
+695,743,Deauville,France,Europe,0,0
+696,744,Loch Lomond,Scotland,Europe,0,0
+697,745,Charlotte,America,North America,0,0
+698,746,Milos,Greece,Europe,0,0
+699,747,Jeju Island,South Korea,Asia,0,0
+700,748,Fatima,Portugal,Europe,0,0
+701,749,Fort William,Scotland,Europe,0,0
+702,750,Jaffna,Sri Lanka,Vanilla Islands,0,0
+703,751,Biarritz,France,Europe,0,0
+704,752,Alice Springs,Australia,ANZ,0,0
+705,753,padua,Italy,Europe,0,0
+706,754,Padua,Italy,Europe,0,0
+707,755,Padova,Italy,Europe,0,0
+708,756,St. Moritz,Switzerland,Europe,0,0
+709,757,Treviso,Italy,Europe,0,0
+710,758,Vis,Croatia,Europe,0,0
+711,759,Turku,Finland,Europe,0,0
+712,760,Tampere,Finland,Europe,0,0
+713,761,Savonlinna,Finland,Europe,0,0
+714,762,Joensuu,Finland,Europe,0,0
+715,763,Aldnd Islands,Finland,Europe,0,0
+716,764,land ( Aland Islands) ,Finland,Europe,0,0
+717,765,Buenos Aires,Argentina,Americas,0,0
+718,766,Bariloche,Argentina,Americas,0,0
+719,767,Puerto Varas,Chile,Americas,0,0
+720,768,Sacred Valley,Peru,Americas,0,0
+721,769,Ushuaia,Argentina,Americas,0,0
+722,770,Torres del Paine,Argentina,Americas,0,0
+723,771,Tbilisi,Georgia,Asia,0,0
+724,772,Dong Hoi,Vietnam,Asia,0,0
+725,773,Avignon,France,Europe,0,0
+726,774,Corsica,France,Europe,0,0
+727,775,Torronto,USA,Americas,0,0
+728,776,Richmond,USA,Americas,0,0
+729,777,Dallas,USA,Americas,0,0
+730,778,Sofia,Bulgaria,Europe,0,0
+731,779,Port Douglas,Australia,ANZ,0,0
+732,780,Odense,Denmark,Europe,0,0
+733,781,Esbjerg,Denmark,Europe,0,0
+734,782,Aarhus,Denmark,Europe,0,0
+735,783,Faroe Islands ,Denmark,Europe,0,0
+736,784,Helsingor,Denmark,Europe,0,0
+737,785,Lindau,Germany,Europe,0,0
+738,786,Amboseli,Kenya,Africa,0,0
+739,787,Naivasha,Kenya,Africa,0,0
+740,788,Nottingham,United Kingdom,Europe,0,0
+741,789,Valletta,Malta,Europe,0,0
+742,790,Gozo,Malta,Europe,0,0
+743,791,Comino,Malta,Europe,0,0
+744,792,Levi,Finland,Europe,0,0
+745,793,Apollo Bay,Australia,ANZ,0,0
+746,794,Kirkjufell,Iceland,Europe,0,0
+747,806,Nusa Penida,Indonesia,Bali,0,0
+748,807,Ivalo,Finland,Europe,0,0
+749,808,K lfafell,Iceland,Europe,0,0
+750,809,Grundarfjordur,Iceland,Europe,0,0
+751,810,St Denis,Reunion,Vanilla Islands,0,0
+752,811,Rotenburg,Germany,Europe,0,0
+753,812,Bamberg,Germany,Europe,0,0
+754,813,Timaru,New Zealand,ANZ,0,0
+755,814,Invercargill,New Zealand,ANZ,0,0
+756,815,Liechtenstein,Liechtenstein,Europe,0,0
+757,816,Vaduz,Liechtenstein,Europe,0,0
+758,817,Corsica,France,Europe,0,0
+759,818,Uppsala,Sweden,Europe,0,0
+760,819,Gothenburg,Sweden,Europe,0,0
+761,820,Malm”,Sweden,Europe,0,0
+762,821,Ystad,Sweden,Europe,0,0
+763,822,Gotland,Sweden,Europe,0,0
+764,823,Vancouver,Canada,Americas,0,0
+765,824,Anchorage ,Canada,Americas,0,0
+766,825,Fairbanks,USA,Americas,0,0
+767,826,Colmar,France,Europe,0,0
+768,827,Kazan,Russia,Europe,0,0
+769,828,Nizhny Novgorod,Russia,Europe,0,0
+770,829,Sochi,Russia,Europe,0,0
+771,830,Ios,Greece,Europe,0,0
+772,831,Leura,Australia,ANZ,0,0
+773,832,Giethoorn,Netherlands,Europe,0,0
+774,833,Fethiye,Turkey,Europe,0,0
+775,834,Mechelen,Belgium,Europe,0,0
+776,835,St. Petersburg,Russia,Europe,0,0
+777,836,Assisi,Italy,Europe,0,0
+778,837,Gisborne,New Zealand,ANZ,0,0
+779,838,Phu Quoc,Vietnam,Asia,0,0
+780,839,Paro,Bhutan,Asia,0,0
+781,840,Airlie Beach,Australia,ANZ,0,0
+782,841,Byron Bay,Australia,ANZ,0,0
+783,842,Sapa,Vietnam,Asia,0,0
+784,843,Trujillo,Peru,Americas,0,0
+785,844,Arequipa,Peru,Americas,0,0
+786,845,”rnsk”ldsvik,Sweden,Europe,0,0
+787,846,Adelboden,Switzerland,Europe,0,0
+788,847,Yarra Valley,Australia,ANZ,0,0
+789,848,Heralikon,Greece,Europe,0,0
+790,849,Coron,Philippines,Asia,0,0
+791,850,Udon Thani,Thailand,Thailand,0,0
+792,851,Sukawati ,Indonesia,Bali,0,0
+793,852,Alkmaar,Netherlands,Europe,0,0
+794,853,Ivalo,Finland,Europe,0,0
+795,854,Kemi,Finland,Europe,0,0
+796,855,Braunschweig,Germany,Europe,0,0
+797,856,Malacca,Malaysia,SEA,0,0
+798,857,Ko Chang,Thailand,Thailand,0,0
+799,858,Ndutu,Tanzania,Africa,0,0
+800,859,Munduk,Indonesia,Bali,0,0
+801,860,Leeds,United Kingdom,Europe,0,0
+802,861,Southampton,United Kingdom,Europe,0,0
+803,862,Bad Gastein,Austria,Europe,0,0
+804,863,Kaprun,Austria,Europe,0,0
+805,864,Dijon,France,Europe,0,0
+806,865,Manaus,Brazil,Americas,0,0
+807,866,Trelew,Argentina,Americas,0,0
+808,867,Santiago,Chile,Americas,0,0
+809,868,Darwin,Australia,ANZ,0,0
+810,869,Varanasi,India,Asia,0,0
+811,870,Guwahati,India,Asia,0,0
+812,871,Calicut,India,Asia,0,0
+813,872,Bhubaneshwar,India,Asia,0,0
+814,873,Mangalore,India,Asia,0,0
+815,874,Imphal,India,Asia,0,0
+816,875,Indore,India,Asia,0,0
+817,876,Gaya,India,Asia,0,0
+818,877,Vijaywada,India,Asia,0,0
+819,878,Siargao Island,Philippines,Asia,0,0
+820,879,Skofja Loka,Slovenia,Europe,0,0
+821,880,Marne-la-Vallee,France,Europe,0,0
+822,881,Lanzarote,Spain,Europe,0,0
+823,882,New Orleans,USA,Americas,0,0
+824,883,Rabat,Morocco,Middle East,0,0
+825,884,Chefchaouen,Morocco,Middle East,0,0
+826,885,Modena,Italy,Europe,0,0
+827,886,Melbourne AVV Airport,Australia,ANZ,0,0
+828,887,Arthur's Pass,New Zealand,ANZ,0,0
+829,888,Springfield,New Zealand,ANZ,0,0
+830,889,Hanmer Springs,New Zealand,ANZ,0,0
+831,890,Poitiers,France,Europe,0,0
+832,891,Kanchanaburi,Thailand,Thailand,0,0
+833,892,Wilderness,South Africa,Africa,0,0
+834,893,Madeira,Portugal,Europe,0,0
+835,894,Puerto Natales,Chile,Americas,0,0
+836,895,Port Lincoln,Australia,ANZ,0,0
+837,896,Tignes,France,Europe,0,0
+838,897,Hervey Bay,Australia,ANZ,0,0
+839,898,lake district,United Kingdom,Europe,0,0
+840,899,Novosibirsk,Russia,Europe,0,0
+841,900,Rhodes,Greece,Europe,0,0
+842,901,Sunshine Coast,Australia,ANZ,0,0
+843,902,Hokitika,New Zealand,ANZ,0,0
+844,903,Tiberias,Israel,Europe,0,0
+845,904,Meteora,Greece,Europe,0,0
+846,905,Angers,France,Europe,0,0
+847,906,Singapore Cruise,Singapore,Singapore,0,0
+848,907,Acquaviva,Europe,Europe,0,0
+849,908,Nassau,Bahamas,Americas,0,0
+850,909,H¢lmav¡k,Iceland,Europe,0,0
+851,910,Isafjordur,Iceland,Europe,0,0
+852,911,Egilsstadir,Iceland,Europe,0,0
+853,912,Nuremberg,Germany,Europe,0,0
+854,913,Kanazawa,Japan,Asia,0,0
+855,914,Port Macquarie,Australia,ANZ,0,0
+856,915,Bari,Italy,Europe,0,0
+857,916,Gurugram,India,Asia,0,0
+858,917,Mabula,South Africa,Africa,0,0
+859,918,Detroit,USA,Americas,0,0
+860,919,Nantes,France,Europe,0,0
+861,920,Aix-en-Provence,France,Europe,0,0
+862,921,Riquewihr,France,Europe,0,0
+863,922,Sapparo,Japan,Asia,0,0
+864,923,Launceston,Australia,ANZ,0,0
+865,924,Kilimanjaro ,Tanzania,Africa,0,0
+866,925,Abeid Amani Karume International Airport,Tanzania,Africa,0,0
+867,926,Montauk,USA,Americas,0,0
+868,927,Minsk,Belarus,Europe,0,0
+869,928,Goa,India,Asia,0,0
+870,929,Annecy,France,Europe,0,0
+871,930,Saint Malo,France,Europe,0,0
+872,931,Vejer De La Frontera,Spain,Europe,0,0
+873,932,Strobl,Austria,Europe,0,0
+874,933,Lille,France,Europe,0,0
+875,934,Amiens,France,Europe,0,0
+876,935,Nimes,France,Europe,0,0
+877,936,Saintes Maries de la Mer,France,Europe,0,0
+878,937,Perugia,Italy,Europe,0,0
+879,938,Tuscany,Italy,Europe,0,0
+880,939,Cadiz,Spain,Europe,0,0
+881,940,Sicily,Italy,Europe,0,0
+882,941,Burgos,Spain,Europe,0,0
+883,942,Almeria,Spain,Europe,0,0
+884,943,San Gimignano,Italy,Europe,0,0
+885,944,Hannover,Germany,Europe,0,0
+886,945,Palermo,Italy,Europe,0,0
+887,946,Belluno,Italy,Europe,0,0
+888,947,Syracuse,Italy,Europe,0,0
+889,948,Koh Rong,Cambodia,SEA,0,0
+890,949,Santiago de Compostela,Spain,Europe,0,0
+891,950,Le Rioja,Spain,Europe,0,0
+892,951,Pamplona,Spain,Europe,0,0
+893,952,Alicante,Spain,Europe,0,0
+894,953,Vigo,Spain,Europe,0,0
+895,954,Ourense,Spain,Europe,0,0
+896,955,Salamanca,Spain,Europe,0,0
+897,956,Murcia,Spain,Europe,0,0
+898,957,Bled,Slovenia,Europe,0,0
+899,958,Swellendam,South Africa,Africa,0,0
+900,959,Montalcino,Italy,Europe,0,0
+901,960,St Ives,United Kingdom,Europe,0,0
+902,961,Amboise,France,Europe,0,0
+903,962,Vadodara,India,Asia,0,0
+904,963,Positano,Italy,Europe,0,0
+905,964,London,United Kingdom,Europe,0,0
+906,965,Bristol,United Kingdom,Europe,0,0
+907,966,Almaty,Kazakhstan,Asia,0,0
+908,970,Cotswolds,United Kingdom,Europe,0,0
+909,974,Exmouth,Australia,ANZ,0,0
+910,980,Monkey Mia,Australia,ANZ,0,0
+911,983,Kalbarri,Australia,ANZ,0,0
+912,986,Carnarvon,Australia,ANZ,0,0
+913,989,Mackay,Australia,ANZ,0,0
+914,992,Bialystok,Poland,Europe,0,0
+915,995,Atlantis,United Arab Emirates,UAE,0,0
+916,998,Burj-Al-Arab,United Arab Emirates,UAE,0,0
+917,1001,Lapita,United Arab Emirates,UAE,0,0
+918,1007,Taronga Zoo,Australia,ANZ,0,0
+919,1010,Port Stephens,Australia,ANZ,0,0
+920,1013,Coffs Harbour,Australia,ANZ,0,0
+921,1016,Gili Air,Indonesia,Bali,0,0
+922,1019,Gili Meno,Indonesia,Bali,0,0
+923,1022,Leon,Spain,Europe,0,0
+924,1025,Gijon,Spain,Europe,0,0
+925,1031,Lienz,Austria,Europe,0,0
+926,1037,Yerevan,Armenia,Asia,0,0
+927,1040,Baku,Azerbaijan,Asia,0,0
+928,1043,Siliguri ,Bhutan,Asia,0,0
+929,1049,Cambridge,United Kingdom,Europe,0,0
+930,1055,Daintree,Australia,ANZ,0,0
+931,1058,Cameron Highlands,Malaysia,SEA,0,0
+932,1061,Alacati,Turkey,Europe,0,0
+933,1064,Kas,Turkey,Europe,0,0
+934,1067,Tampa,USA,Americas,0,0
+935,1070,Oxford,United Kingdom,Europe,0,0
+936,1078,Gran Canaria,Spain,Europe,0,0
+937,1081,Fuerteventura,Spain,Europe,0,0
+938,1084,Cornwall,United Kingdom,Europe,0,0
+939,1087,Kendal,United Kingdom,Europe,0,0
+940,1094,Novalja,Croatia,Europe,0,0
+941,1100,TelAviv,Israel,Asia,0,0
+942,1103,Fontainebleau,France,Europe,0,0
+943,1106,Anuradhapura,Sri Lanka,Asia,0,0
+944,1109,Sigiriya,Sri Lanka,Asia,0,0
+945,1112,Leukerbad,Switzerland,Europe,0,0
+946,1115,Aberdeen,United Kingdom,Europe,0,0
+947,1118,Rimini,Italy,Europe,0,0
+948,1124,Napier,New Zealand,ANZ,0,0
+949,1127,Wairoa,New Zealand,ANZ,0,0
+950,1130,Telfes im Stubai,Austria,Europe,0,0
+951,1133,Eindhoven,Netherlands,Europe,0,0
+952,1139,Ninh Binh,Vietnam,Asia,0,0
+953,1142,Estonia,Russia,Europe,0,0
+954,1145,Dullstroom,South Africa,Africa,0,0
+955,1151,Alpbach,Austria,Europe,0,0
+956,1157,Santillana del Mar,Spain,Europe,0,0
+957,1160,Senja,Norway,Europe,0,0
+958,1163,Santander,Spain,Europe,0,0
+959,1166,Sandefjord,Norway,Europe,0,0
+960,1169,Kittila,Europe,Europe,0,0
+961,1175,Lake Garda,Italy,Europe,0,0
+962,1181,Pokhara,Nepal,Asia,0,0
+963,1184,Nagarkot,Nepal,Asia,0,0
+964,1187,Sarangkot,Nepal,Asia,0,0
+965,1193,St. Gilgen,Austria,Europe,0,0
+966,1196,Montreal,France,Europe,0,0
+967,1202,Kocaeli,Turkey,Europe,0,0
+968,1205,Bursa,Turkey,Europe,0,0
+969,1208,Yangtse River Cruise,China,Asia,0,0
+970,1214,Sanliurfa,Turkey,Europe,0,0
+971,1220,Graz,Austria,Europe,0,0
+972,1223,Belgrade,Serbia,Europe,0,0
+973,1226,Skiathos,Greece,Europe,0,0
+974,1232,Koh Rang Sanloem,Cambodia,SEA,0,0
+975,1235,Yuzawa,Japan,Asia,0,0
+976,1238,Niigata,Japan,Asia,0,0
+977,1241,Poznan,Poland,Europe,0,0
+978,1244,Stellenbosch,South Africa,Africa,0,0
+979,1250,Albany,USA,Americas,0,0
+980,1256,Mindanao,Philippines,Asia,0,0
+981,1259,Batam,Indonesia,Bali,0,0
+982,1262,Marmaris,Turkey,Europe,0,0
+983,1265,Denizli,Turkey,Europe,0,0
+984,1268,Kuching,Malaysia,SEA,0,0
+985,1274,BELGRADE,Serbia,Europe,0,0
+986,1277,Twizel,New Zealand,ANZ,0,0
+987,1283,Fraser Island,Australia,ANZ,0,0
+988,1289,Dortmund,Germany,Europe,0,0
+989,1292,Guangzhou,China,Asia,0,0
+990,1298,Raleigh,USA,Americas,0,0
+991,1303,Alentejo,Portugal,Europe,0,0
+992,1309,Bela-Bela,South Africa,Africa,0,0
+993,1313,Oamaru,New Zealand,ANZ,0,0
+994,1316,Sacramento,USA,Americas,0,0
+995,1319,Noordwijk,Netherlands,Europe,0,0
+996,1324,Bonn,Germany,Europe,0,0
+997,1327,Phobjikha,Bhutan,Asia,0,0
+998,1330,Korenica,Croatia,Europe,0,0
+999,1336,Harads,Sweden,Europe,0,0
+1000,1342,Hamm,Germany,Europe,0,0
+1001,1346,Cortina,Italy,Europe,0,0
+1002,1349,Geelong,Australia,ANZ,0,0
+1003,1355,Uluwatu,Indonesia,Bali,0,0
+1004,1358,Laengenfeld,Austria,Europe,0,0
+1005,1364,Andenes,Norway,Europe,0,0
+1006,1370,Sidbury,South Africa,Africa,0,0
+1007,1378,Koh Samet,Thailand,Thailand,0,0
+1008,1384,Nicosia,Cyprus,Europe,0,0
+1009,1390,Kakslauttanen,Finland,Europe,0,0
+1010,1396,Berchtesgaden,Germany,Europe,0,0
+1011,1402,Warrnambool,Australia,ANZ,0,0
+1012,1408,Borabudur,Indonesia,Bali,0,0
+1013,1411,Charleston,USA,,0,0
+1014,1414,Amarillo,USA,,0,0
+1015,1417,Clearwater,USA,,0,0
+1016,1420,Chattanooga,USA,,0,0
+1017,1423,Cleveland,USA,,0,0
+1018,1426,Frankfort,USA,,0,0
+1019,1429,Galveston,USA,,0,0
+1020,1432,Breckenridge,USA,,0,0
+1021,1435,Biloxi,USA,,0,0
+1022,1438,Camden,USA,,0,0
+1023,1441,Boise,USA,,0,0
+1024,1444,Duluth,USA,,0,0
+1025,1447,Fayetteville,USA,,0,0
+1026,1450,Cody,USA,,0,0
+1027,1453,Flagstaff,USA,,0,0
+1028,1456,Homer,USA,,0,0
+1029,1459,Haines,USA,,0,0
+1030,1462,Boulder,USA,,0,0
+1031,1465,Houston,USA,,0,0
+1032,1468,Destin,USA,,0,0
+1033,1471,Durango,USA,,0,0
+1034,1474,Gainesville,USA,,0,0
+1035,1477,Ketchikan,USA,,0,0
+1036,1480,Indianapolis,USA,,0,0
+1037,1483,Harrisburg,USA,,0,0
+1038,1486,Jamestown,USA,,0,0
+1039,1489,Lancaster,USA,,0,0
+1040,1492,Milwaukee,USA,,0,0
+1041,1495,Kenai,USA,,0,0
+1042,1498,Jacksonville,USA,,0,0
+1043,1501,Burlington,USA,,0,0
+1044,1504,Lafayette,USA,,0,0
+1045,1507,Knoxville,USA,,0,0
+1046,1510,Denver,USA,,0,0
+1047,1513,Eugene,USA,,0,0
+1048,1516,Newark,USA,,0,0
+1049,1519,Manassas,USA,,0,0
+1050,1522,Cincinnati,USA,,0,0
+1051,1525,Lexington,USA,,0,0
+1052,1528,Madison,USA,,0,0
+1053,1531,Columbus,USA,,0,0
+1054,1534,McCall,USA,,0,0
+1055,1537,Hartford,USA,,0,0
+1056,1540,Page,USA,,0,0
+1057,1543,Hoonah,USA,,0,0
+1058,1546,Pensacola,USA,,0,0
+1059,1549,Louisville,USA,,0,0
+1060,1552,Providence,USA,,0,0
+1061,1555,Rochester,USA,,0,0
+1062,1558,Memphis,USA,,0,0
+1063,1561,Sandusky,USA,,0,0
+1064,1564,Soldotna,USA,,0,0
+1065,1567,Sedona,USA,,0,0
+1066,1570,Mobile,USA,,0,0
+1067,1573,Broome,Australia,,0,0
+1068,1576,Skagway,USA,,0,0
+1069,1579,Oakland,USA,,0,0
+1070,1582,Greenville,USA,,0,0
+1071,1585,Ithaca,USA,,0,0
+1072,1588,Phoenix,USA,,0,0
+1073,1591,Juneau,USA,,0,0
+1074,1594,Arcachon,France,,0,0
+1075,1597,Vail,USA,,0,0
+1076,1600,Reno,USA,,0,0
+1077,1603,Rennes,France,,0,0
+1078,1606,Sarasota,USA,,0,0
+1079,1609,Stockton,USA,,0,0
+1080,1612,Moab,USA,,0,0
+1081,1615,Nashville,USA,,0,0
+1082,1618,Brindisi,Italy,,0,0
+1083,1621,Telluride,USA,,0,0
+1084,1624,Dunkirk,France,,0,0
+1085,1627,Perpignan,France,,0,0
+1086,1630,Newport,USA,,0,0
+1087,1633,Geraldton,Australia,,0,0
+1088,1636,Tucson,USA,,0,0
+1089,1639,Seward,USA,,0,0
+1090,1642,Sitka,USA,,0,0
+1091,1645,Strahan,Australia,,0,0
+1092,1648,Williamsburg,USA,,0,0
+1093,1651,Norfolk,USA,,0,0
+1094,1654,Tours,France,,0,0
+1095,1657,Ancona,Italy,,0,0
+1096,1660,Wilmington,USA,,0,0
+1097,1663,Burnie,Australia,,0,0
+1098,1666,Portsmouth,USA,,0,0
+1099,1669,Katherine,Australia,,0,0
+1100,1672,Scottsdale,USA,,0,0
+1101,1675,Alghero,Italy,,0,0
+1102,1678,Kununurra,Australia,,0,0
+1103,1681,Linz,Austria,,0,0
+1104,1684,Townsville,Australia,,0,0
+1105,1687,Pescara,Italy,,0,0
+1106,1690,Vicenza,Italy,,0,0
+1107,1693,Carcassonne,France,,0,0
+1108,1696,Cognac,France,,0,0
+1109,1699,Motueka,New Zealand,,0,0
+1110,1702,Bergamo,Italy,,0,0
+1111,1705,Brescia,Italy,,0,0
+1112,1708,Rouen,France,,0,0
+1113,1711,Kratie,Cambodia,,0,0
+1114,1714,Bergerac,France,,0,0
+1115,1717,Caen,France,,0,0
+1116,1720,Aosta,Italy,,0,0
+1117,1723,Grenoble,France,,0,0
+1118,1726,Bolzano,Italy,,0,0
+1119,1729,Plovdiv,Bulgaria,,0,0
+1120,1732,Lecce,Italy,,0,0
+1121,1735,Olbia,Italy,,0,0
+1122,1738,Parma,Italy,,0,0
+1123,1741,Trapani,Italy,,0,0
+1124,1744,Leeuwarden,Netherlands,,0,0
+1125,1747,Salerno,Italy,,0,0
+1126,1750,Valladolid,Spain,,0,0
+1127,1753,Arrecife,Spain,,0,0
+1128,1756,Varna,Bulgaria,,0,0
+1129,1759,Battambang,Cambodia,,0,0
+1130,1762,Trier,Germany,,0,0
+1131,1765,Debrecen,Hungary,,0,0
+1132,1768,Sligo,United Kingdom,,0,0
+1133,1771,Pula,Croatia,,0,0
+1134,1774,Tartu,Estonia,,0,0
+1135,1777,Kushiro,Japan,,0,0
+1136,1780,Shannon,United Kingdom,,0,0
+1137,1783,Oita,Japan,,0,0
+1138,1786,Kobe,Japan,,0,0
+1139,1789,Samos,Greece,,0,0
+1140,1792,Koblenz,Germany,,0,0
+1141,1795,Surabaya,Indonesia,,0,0
+1142,1798,Kagoshima,Japan,,0,0
+1143,1801,Naha,Japan,,0,0
+1144,1804,Bandung,Indonesia,,0,0
+1145,1807,Lerwick,United Kingdom,,0,0
+1146,1810,Stornoway,United Kingdom,,0,0
+1147,1813,Ipoh,Malaysia,,0,0
+1148,1816,Agadir,Morocco,,0,0
+1149,1819,Kalamata,Greece,,0,0
+1150,1822,Kos,Greece,,0,0
+1151,1825,Okayama,Japan,,0,0
+1152,1828,Miri,Malaysia,,0,0
+1153,1831,Sharjah,United Arab Emirates,,0,0
+1154,1834,Semarang,Indonesia,,0,0
+1155,1837,Poprad,Slovakia,,0,0
+1156,1840,Mardin,Turkey,,0,0
+1157,1843,Sapporo,Japan,,0,0
+1158,1846,Kuantan,Malaysia,,0,0
+1159,1849,Pretoria,South Africa,,0,0
+1160,1852,Victoria,Seychelles,,0,0
+1161,1855,Augsburg,Germany,,0,0
+1162,1858,Medan,Indonesia,,0,0
+1163,1861,Westport,United Kingdom,,0,0
+1164,1864,Funchal,Portugal,,0,0
+1165,1867,Arad,Romania,,0,0
+1166,1870,Dundee,United Kingdom,,0,0
+1167,1873,Timisoara,Romania,,0,0
+1168,1876,Erzurum,Turkey,,0,0
+1169,1879,Fukuoka,Japan,,0,0
+1170,1882,Yekaterinburg,Russia,,0,0
+1171,1885,Iasi,Romania,,0,0
+1172,1888,Lodz,Poland,,0,0
+1173,1891,Trabzon,Turkey,,0,0
+1174,1894,Sinop,Turkey,,0,0
+1175,1897,Vladivostok,Russia,,0,0
+1176,1900,Van,Turkey,,0,0
+1177,1903,Ouarzazate,Morocco,,0,0
+1178,1906,Sibiu,Romania,,0,0
+1179,1909,Tulcea,Romania,,0,0
+1180,1912,Oradea,Romania,,0,0
+1181,1915,Kaliningrad,Russia,,0,0
+1182,1918,Volgograd,Russia,,0,0
+1183,1921,Constanta,Romania,,0,0
+1184,1924,Murmansk,Russia,,0,0
+1185,1927,Kars,Turkey,,0,0
+1186,1930,Alanya,Turkey,,0,0
+1187,1933,Brooklyn,USA,,0,0
+1188,1936,Chelan,USA,,0,0
+1189,1939,Fort-Myers,USA,,0,0
+1190,1942,Buena-Vista,USA,,0,0
+1191,1945,Cape-Cod,USA,,0,0
+1192,1948,Catalina-Island,USA,,0,0
+1193,1951,Baker-City,USA,,0,0
+1194,1954,Bend,USA,,0,0
+1195,1957,Cocoa-Beach,USA,,0,0
+1196,1960,Charlottesville,USA,,0,0
+1197,1963,Branson,USA,,0,0
+1198,1966,Clayton,USA,,0,0
+1199,1969,Gatlinburg,USA,,0,0
+1200,1972,Crystal-River,USA,,0,0
+1201,1975,Boca-Raton,USA,,0,0
+1202,1978,Colorado-Springs,USA,,0,0
+1203,1981,Cooperstown,USA,,0,0
+1204,1984,Dana-Point,USA,,0,0
+1205,1987,Glenwood-Springs,USA,,0,0
+1206,1990,Gulf-Shores,USA,,0,0
+1207,1993,Boone,USA,,0,0
+1208,1996,Frederick,USA,,0,0
+1209,1999,Custer,USA,,0,0
+1210,2002,Fort-Collins,USA,,0,0
+1211,2005,Islamorada,USA,,0,0
+1212,2008,Denali-National-Park,USA,,0,0
+1213,2011,Kansas-City,USA,,0,0
+1214,2014,Idaho-Springs,USA,,0,0
+1215,2017,Healdsburg,USA,,0,0
+1216,2020,Hershey,USA,,0,0
+1217,2023,Gloucester,USA,,0,0
+1218,2026,Hilton-Head-Island,USA,,0,0
+1219,2029,Key-Largo,USA,,0,0
+1220,2032,Kansas-City,USA,,0,0
+1221,2035,Lake-George,USA,,0,0
+1222,2038,Key-West,USA,,0,0
+1223,2041,Monument-Valley,USA,,0,0
+1224,2044,Jersey-City,USA,,0,0
+1225,2047,Long-Beach,USA,,0,0
+1226,2050,La-Jolla,USA,,0,0
+1227,2053,Laguna-Beach,USA,,0,0
+1228,2056,Mackinaw-City,USA,,0,0
+1229,2059,New-Haven,USA,,0,0
+1230,2062,Long-Island,USA,,0,0
+1231,2065,Fort-Worth,USA,,0,0
+1232,2068,New-London,USA,,0,0
+1233,2071,Malibu,USA,,0,0
+1234,2074,Newport-Beach,USA,,0,0
+1235,2077,Corpus-Christi,USA,,0,0
+1236,2080,Mystic,USA,,0,0
+1237,2083,Pigeon-Forge,USA,,0,0
+1238,2086,Ocean-City,USA,,0,0
+1239,2089,Outer-Banks,USA,,0,0
+1240,2092,Oklahoma-City,USA,,0,0
+1241,2095,Mammoth-Lakes,USA,,0,0
+1242,2098,McCarthy,USA,,0,0
+1243,2101,Panama-City-Beach,USA,,0,0
+1244,2104,Salt-Lake-City,USA,,0,0
+1245,2107,Palm-Springs,USA,,0,0
+1246,2110,San-Jose,USA,,0,0
+1247,2113,Roanoke,USA,,0,0
+1248,2116,Santa-Rosa,USA,,0,0
+1249,2119,St-George,USA,,0,0
+1250,2122,Sun-Valley,USA,,0,0
+1251,2125,Santa-Barbara,USA,,0,0
+1252,2128,Upper-Peninsula,USA,,0,0
+1253,2131,Myrtle-Beach,USA,,0,0
+1254,2134,Wisconsin-Dells,USA,,0,0
+1255,2137,Agnes-Water,Australia,,0,0
+1256,2140,Busselton,Australia,,0,0
+1257,2143,Paso-Robles,USA,,0,0
+1258,2146,Daytona-Beach,USA,,0,0
+1259,2149,Coles-Bay,Australia,,0,0
+1260,2152,Brunswick-Heads,Australia,,0,0
+1261,2155,Steamboat-Springs,USA,,0,0
+1262,2158,Fraser-Island,Australia,,0,0
+1263,2161,Stowe,USA,,0,0
+1264,2164,Port-Angeles,USA,,0,0
+1265,2167,Estes-Park,USA,,0,0
+1266,2170,Taos,USA,,0,0
+1267,2173,Temecula,USA,,0,0
+1268,2176,Fort-Lauderdale,USA,,0,0
+1269,2179,Rainbow-Beach,Australia,,0,0
+1270,2182,Rehoboth-Beach,USA,,0,0
+1271,2185,Gettysburg,USA,,0,0
+1272,2188,Rottnest-Island,Australia,,0,0
+1273,2191,San-Antonio,USA,,0,0
+1274,2194,Coffs-Harbour,Australia,,0,0
+1275,2197,Stewart-Island,New Zealand,,0,0
+1276,2200,Waiheke-Island,New Zealand,,0,0
+1277,2203,Fremantle,Australia,,0,0
+1278,2206,Park-City,USA,,0,0
+1279,2209,Kakadu,Australia,,0,0
+1280,2212,Magnetic-Island,Australia,,0,0
+1281,2215,Rapid-City,USA,,0,0
+1282,2218,Mornington-Peninsula,Australia,,0,0
+1283,2221,Port-Arthur,Australia,,0,0
+1284,2224,San-Luis-Obispo,USA,,0,0
+1285,2227,Santa-Fe,USA,,0,0
+1286,2230,Agrigento,Italy,,0,0
+1287,2233,Saratoga-Springs,USA,,0,0
+1288,2236,New-Hope,USA,,0,0
+1289,2239,Ballarat,Australia,,0,0
+1290,2242,Salem,USA,,0,0
+1291,2245,Santa-Cruz,USA,,0,0
+1292,2248,Niagara-Falls,USA,,0,0
+1293,2251,Santa-Monica,USA,,0,0
+1294,2254,Sausalito,USA,,0,0
+1295,2257,Whittier,USA,,0,0
+1296,2260,Lamezia-Terme,Italy,,0,0
+1297,2263,Madonna-di-Campiglio,Italy,,0,0
+1298,2266,South-Padre-Island,USA,,0,0
+1299,2269,Ohakune,New Zealand,,0,0
+1300,2272,Orvieto,Italy,,0,0
+1301,2275,Bayeux,France,,0,0
+1302,2278,Aeolian-Islands,Italy,,0,0
+1303,2281,Bayonne,France,,0,0
+1304,2284,Blue-Mountains,Australia,,0,0
+1305,2287,Norwalk,USA,,0,0
+1306,2290,Pesaro,Italy,,0,0
+1307,2293,Taranto,Italy,,0,0
+1308,2296,La-Gomera,Spain,,0,0
+1309,2299,Beaune,France,,0,0
+1310,2302,Cape-Tribulation,Australia,,0,0
+1311,2305,Arezzo,Italy,,0,0
+1312,2308,Pagosa-Springs,USA,,0,0
+1313,2311,La-Rochelle,France,,0,0
+1314,2314,Virginia-Beach,USA,,0,0
+1315,2317,West-Palm-Beach,USA,,0,0
+1316,2320,Le-Grau-du-Roi,France,,0,0
+1317,2323,Le-Havre,France,,0,0
+1318,2326,Yosemite-National-Park,USA,,0,0
+1319,2329,Barossa-Valley,Australia,,0,0
+1320,2332,Menton,France,,0,0
+1321,2335,Hunter-Valley,Australia,,0,0
+1322,2338,Batemans-Bay,Australia,,0,0
+1323,2341,Saumur,France,,0,0
+1324,2344,Kings-Canyon,Australia,,0,0
+1325,2347,San-Juan-Islands,USA,,0,0
+1326,2350,McLaren-Vale,Australia,,0,0
+1327,2353,Pavia,Italy,,0,0
+1328,2356,Traverse-City,USA,,0,0
+1329,2359,Nijmegen,Netherlands,,0,0
+1330,2362,Rovereto,Italy,,0,0
+1331,2365,Mission-Beach,Australia,,0,0
+1332,2368,Girona,Spain,,0,0
+1333,2371,Great-Ocean-Road,Australia,,0,0
+1334,2374,Tweed-Heads,Australia,,0,0
+1335,2377,Ferrara,Italy,,0,0
+1336,2380,Akaroa,New Zealand,,0,0
+1337,2383,Bay-of-Islands,New Zealand,,0,0
+1338,2386,Kangaroo-Island,Australia,,0,0
+1339,2389,Lucca,Italy,,0,0
+1340,2392,Yellowstone-National-Park,USA,,0,0
+1341,2395,Montepulciano,Italy,,0,0
+1342,2398,Phillip-Island,Australia,,0,0
+1343,2401,Surfers-Paradise,Australia,,0,0
+1344,2404,Ipswich,Australia,,0,0
+1345,2407,Jervis-Bay,Australia,,0,0
+1346,2410,Gran-Canaria,Spain,,0,0
+1347,2413,Ragusa,Italy,,0,0
+1348,2416,Blenheim,New Zealand,,0,0
+1349,2419,Mandurah,Australia,,0,0
+1350,2422,La-Palma,Spain,,0,0
+1351,2425,Canterbury,New Zealand,,0,0
+1352,2428,Fox-Glacier,New Zealand,,0,0
+1353,2431,Torrevieja,Spain,,0,0
+1354,2434,Margaret-River,Australia,,0,0
+1355,2437,Hastings,New Zealand,,0,0
+1356,2440,Tongariro-National-Park,New Zealand,,0,0
+1357,2443,Arnhem,Netherlands,,0,0
+1358,2446,Dordrecht,Netherlands,,0,0
+1359,2449,Arles,France,,0,0
+1360,2452,Norfolk-Island,Australia,,0,0
+1361,2455,Reims,France,,0,0
+1362,2458,Sete,France,,0,0
+1363,2461,Palm-Cove,Australia,,0,0
+1364,2464,Antibes,France,,0,0
+1365,2467,Hoorn,Netherlands,,0,0
+1366,2470,Narbonne,France,,0,0
+1367,2473,Toulon,France,,0,0
+1368,2476,Asti,Italy,,0,0
+1369,2479,Middelburg,Netherlands,,0,0
+1370,2482,Cortina-dAmpezzo,Italy,,0,0
+1371,2485,Messina,Italy,,0,0
+1372,2488,Enkhuizen,Netherlands,,0,0
+1373,2491,Verdun,France,,0,0
+1374,2494,Montecatini-Terme,Italy,,0,0
+1375,2497,Arras,France,,0,0
+1376,2500,Versailles,France,,0,0
+1377,2503,Ravenna,Italy,,0,0
+1378,2506,Trento,Italy,,0,0
+1379,2509,Amalfi,Italy,,0,0
+1380,2512,Chinon,France,,0,0
+1381,2515,Trieste,Italy,,0,0
+1382,2518,Corte,France,,0,0
+1383,2521,Tropea,Italy,,0,0
+1384,2524,Puerto-del-Rosario,Spain,,0,0
+1385,2527,Ascoli-Piceno,Italy,,0,0
+1386,2530,Bansko,Bulgaria,,0,0
+1387,2533,Maranello,Italy,,0,0
+1388,2536,Matera,Italy,,0,0
+1389,2539,Segovia,Spain,,0,0
+1390,2542,Sliven,Bulgaria,,0,0
+1391,2545,Livorno,Italy,,0,0
+1392,2548,Benidorm,Spain,,0,0
+1393,2551,Zaandam,Netherlands,,0,0
+1394,2554,Portofino,Italy,,0,0
+1395,2557,Wattens,Austria,,0,0
+1396,2560,Ypres,Belgium,,0,0
+1397,2563,Figueres,Spain,,0,0
+1398,2566,La-Coruna,Spain,,0,0
+1399,2569,Borovets,Bulgaria,,0,0
+1400,2572,Tarragona,Spain,,0,0
+1401,2575,Porec,Croatia,,0,0
+1402,2578,Korcula,Croatia,,0,0
+1403,2581,Komodo,Indonesia,,0,0
+1404,2584,Potsdam,Germany,,0,0
+1405,2587,Trogir,Croatia,,0,0
+1406,2590,Regensburg,Germany,,0,0
+1407,2593,Gouda,Netherlands,,0,0
+1408,2596,The-Hague,Netherlands,,0,0
+1409,2599,Rostock,Germany,,0,0
+1410,2602,Petaling-Jaya,Malaysia,,0,0
+1411,2605,Skaftafell,Iceland,,0,0
+1412,2608,Plitvice-Lakes-National-Park,Croatia,,0,0
+1413,2611,Szentendre,Hungary,,0,0
+1414,2614,Rab,Croatia,,0,0
+1415,2617,Tipperary,United Kingdom,,0,0
+1416,2620,Wakayama,Japan,,0,0
+1417,2623,Tralee,United Kingdom,,0,0
+1418,2626,Rovinj,Croatia,,0,0
+1419,2629,Lautoka,Fiji,,0,0
+1420,2632,Takayama,Japan,,0,0
+1421,2635,Chiba,Japan,,0,0
+1422,2638,Cherating,Malaysia,,0,0
+1423,2641,Oswiecim,Poland,,0,0
+1424,2644,Heidelberg,Germany,,0,0
+1425,2647,Chamarel,Mauritius,,0,0
+1426,2650,Suva,Fiji,,0,0
+1427,2653,Limerick,United Kingdom,,0,0
+1428,2656,Kilkenny,United Kingdom,,0,0
+1429,2659,Athlone,United Kingdom,,0,0
+1430,2662,Wicklow,United Kingdom,,0,0
+1431,2665,Kenmare,United Kingdom,,0,0
+1432,2668,Garmisch-Partenkirchen,Germany,,0,0
+1433,2671,Pacific-Harbour,Fiji,,0,0
+1434,2674,Al-Ain,United Arab Emirates,,0,0
+1435,2677,Liscannor,United Kingdom,,0,0
+1436,2680,Mie,Japan,,0,0
+1437,2683,Nizhny-Novgorod,Russia,,0,0
+1438,2686,Mellieha,Malta,,0,0
+1439,2689,Yokohama,Japan,,0,0
+1440,2692,Sighisoara,Romania,,0,0
+1441,2695,Stirling,United Kingdom,,0,0
+1442,2698,Mainz,Germany,,0,0
+1443,2701,Cobh,United Kingdom,,0,0
+1444,2704,Cluj-Napoca,Romania,,0,0
+1445,2707,Tanjung-Benoa,Indonesia,,0,0
+1446,2710,Clifden,United Kingdom,,0,0
+1447,2713,Surat-Thani,Thailand,,0,0
+1448,2716,Dingle,United Kingdom,,0,0
+1449,2719,Mgarr,Malta,,0,0
+1450,2722,Bovec,Slovenia,,0,0
+1451,2725,Luxembourg-City,Luxembourg,,0,0
+1452,2728,Beppu,Japan,,0,0
+1453,2731,Volos,Greece,,0,0
+1454,2734,Lauterbrunnen,Switzerland,,0,0
+1455,2737,Nagano,Japan,,0,0
+1456,2740,Otaru,Japan,,0,0
+1457,2743,Phonsavan,Laos,,0,0
+1458,2746,Puerto-Princesa,Philippines,,0,0
+1459,2749,Andalsnes,Norway,,0,0
+1460,2752,Trou-dEau-Douce,Mauritius,,0,0
+1461,2755,Port-Louis,Mauritius,,0,0
+1462,2758,Kemer,Turkey,,0,0
+1463,2761,Ko-Chang,Thailand,,0,0
+1464,2764,Ras-Al-Khaimah,United Arab Emirates,,0,0
+1465,2767,Braga,Portugal,,0,0
+1466,2770,Kamakura,Japan,,0,0
+1467,2773,Diyarbakir,Turkey,,0,0
+1468,2776,Orsta,Norway,,0,0
+1469,2779,Cascais,Portugal,,0,0
+1470,2782,Rostov-on-Don,Russia,,0,0
+1471,2785,Vang-Vieng,Laos,,0,0
+1472,2788,Passau,Germany,,0,0
+1473,2791,Sigulda,Latvia,,0,0
+1474,2794,Tangier,Morocco,,0,0
+1475,2797,Johor Bahru,Malaysia,,0,0
+1476,2800,Rust,Germany,,0,0
+1477,2803,Essaouira,Morocco,,0,0
+1478,2806,Portimao,Portugal,,0,0
+1479,2809,Ko-Lanta,Thailand,,0,0
+1480,2812,Davos,Switzerland,,0,0
+1481,2815,Kaunas,Lithuania,,0,0
+1482,2818,Ponta-Delgada,Portugal,,0,0
+1483,2821,Invergordon,United Kingdom,,0,0
+1484,2824,Klaipeda,Lithuania,,0,0
+1485,2827,Aviemore,United Kingdom,,0,0
+1486,2830,East-London,South Africa,,0,0
+1487,2833,Trakai,Lithuania,,0,0
+1488,2836,Ho-Chi-Minh-City,Vietnam,,0,0
+1489,2839,Side,Turkey,,0,0
+1490,2842,Santa-Maria,Portugal,,0,0
+1491,2845,Urgup,Turkey,,0,0
+1492,2848,Brasov,Romania,,0,0
+1493,2851,Belek,Turkey,,0,0
+1494,2854,Phu-Quoc,Vietnam,,0,0
+1495,2857,Skjolden,Norway,,0,0
+1496,2860,Tagaytay,Philippines,,0,0
+1497,2863,Aberfeldy,United Kingdom,,0,0
+1498,2866,Koper,Slovenia,,0,0
+1499,2869,Ayr,United Kingdom,,0,0
+1500,2872,Ajman,United Arab Emirates,,0,0
+1501,2875,Vung Tau,Vietnam,,0,0
+1502,2878,Hat-Yai,Thailand,,0,0
+1503,2881,Tirana,Albania,,0,0
+1504,2884,Algiers,Algeria,,0,0
+1505,2887,Luanda,Angola,,0,0
+1506,2890,St-Johns,Antigua and Barbuda,,0,0
+1507,2893,Buenos-Aires,Argentina,,0,0
+1508,2896,Cachi,Argentina,,0,0
+1509,2899,Cafayate,Argentina,,0,0
+1510,2902,El-Calafate,Argentina,,0,0
+1511,2905,Mendoza,Argentina,,0,0
+1512,2908,Puerto-Madryn,Argentina,,0,0
+1513,2911,Salta,Argentina,,0,0
+1514,2914,San-Martin-de-los-Andes,Argentina,,0,0
+1515,2917,Tilcara,Argentina,,0,0
+1516,2920,Manama,Bahrain,,0,0
+1517,2923,Chittagong,Bangladesh,,0,0
+1518,2926,Coxs-Bazar,Bangladesh,,0,0
+1519,2929,Dhaka,Bangladesh,,0,0
+1520,2932,Rajshahi,Bangladesh,,0,0
+1521,2935,Sylhet,Bangladesh,,0,0
+1522,2938,Belize-City,Belize,,0,0
+1523,2941,Dangriga,Belize,,0,0
+1524,2944,Hopkins,Belize,,0,0
+1525,2947,Placencia,Belize,,0,0
+1526,2950,Punta-Gorda,Belize,,0,0
+1527,2953,San-Ignacio,Belize,,0,0
+1528,2956,Cotonou,Benin,,0,0
+1529,2959,La-Paz,Bolivia,,0,0
+1530,2962,Sucre,Bolivia,,0,0
+1531,2965,Uyuni,Bolivia,,0,0
+1532,2968,Vallegrande,Bolivia,,0,0
+1533,2971,Mostar,Bosnia and Herzegovina,,0,0
+1534,2974,Kasane,Botswana,,0,0
+1535,2977,Maun,Botswana,,0,0
+1536,2980,Arraial-do-Cabo,Brazil,,0,0
+1537,2983,Balneario-Camboriu,Brazil,,0,0
+1538,2986,Belem,Brazil,,0,0
+1539,2989,Belo-Horizonte,Brazil,,0,0
+1540,2992,Bonito,Brazil,,0,0
+1541,2995,Brasilia,Brazil,,0,0
+1542,2998,Curitiba,Brazil,,0,0
+1543,3001,Fernando-de-Noronha,Brazil,,0,0
+1544,3004,Florianopolis,Brazil,,0,0
+1545,3007,Foz-do-Iguacu,Brazil,,0,0
+1546,3010,Gramado,Brazil,,0,0
+1547,3013,Ilha-Grande,Brazil,,0,0
+1548,3016,Itajai,Brazil,,0,0
+1549,3019,Lencois,Brazil,,0,0
+1550,3022,Natal,Brazil,,0,0
+1551,3025,Olinda,Brazil,,0,0
+1552,3028,Paranagua,Brazil,,0,0
+1553,3031,Paraty,Brazil,,0,0
+1554,3034,Porto-Alegre,Brazil,,0,0
+1555,3037,Porto-Seguro,Brazil,,0,0
+1556,3040,Recife,Brazil,,0,0
+1557,3043,Rio-de-Janeiro,Brazil,,0,0
+1558,3046,Santarem,Brazil,,0,0
+1559,3049,Santos,Brazil,,0,0
+1560,3052,Vitoria,Brazil,,0,0
+1561,3055,Bujumbura,Burundi,,0,0
+1562,3058,Yaounde,Cameroon,,0,0
+1563,3061,Banff,Canada,,0,0
+1564,3064,Bonne-Bay,Canada,,0,0
+1565,3067,Calgary,Canada,,0,0
+1566,3070,Charlottetown,Canada,,0,0
+1567,3073,Churchill,Canada,,0,0
+1568,3076,Edmonton,Canada,,0,0
+1569,3079,Halifax,Canada,,0,0
+1570,3082,Jasper,Canada,,0,0
+1571,3085,Kamloops,Canada,,0,0
+1572,3088,Kootenay-Rockies,Canada,,0,0
+1573,3091,Nanaimo,Canada,,0,0
+1574,3094,Ottawa,Canada,,0,0
+1575,3097,Prince-Rupert,Canada,,0,0
+1576,3100,Saint-John,Canada,,0,0
+1577,3103,Squamish,Canada,,0,0
+1578,3106,St-Johns,Antigua and Barbuda,,0,0
+1579,3109,Thousand-Islands,Canada,,0,0
+1580,3112,Trois-Rivieres,Canada,,0,0
+1581,3115,Vancouver-Island,Canada,,0,0
+1582,3118,Victoria,Canada,,0,0
+1583,3121,Whistler,Canada,,0,0
+1584,3124,Whitehorse,Canada,,0,0
+1585,3127,Windsor,Canada,,0,0
+1586,3130,Yellowknife,Canada,,0,0
+1587,3133,Arica,Chile,,0,0
+1588,3136,Castro,Chile,,0,0
+1589,3139,Hanga-Roa,Chile,,0,0
+1590,3142,Iquique,Chile,,0,0
+1591,3145,La-Serena,Chile,,0,0
+1592,3148,Puerto-Chacabuco,Chile,,0,0
+1593,3151,Puerto-Montt,Chile,,0,0
+1594,3154,Puerto-Natales,Chile,,0,0
+1595,3157,Puerto-Varas,Chile,,0,0
+1596,3160,Punta-Arenas,Chile,,0,0
+1597,3163,San-Pedro-de-Atacama,Chile,,0,0
+1598,3166,Changchun,China,,0,0
+1599,3169,Changsha,China,,0,0
+1600,3172,Changzhou,China,,0,0
+1601,3175,Chongqing,China,,0,0
+1602,3178,Dali,China,,0,0
+1603,3181,Dalian,China,,0,0
+1604,3184,Dandong,China,,0,0
+1605,3187,Datong,China,,0,0
+1606,3190,Fuzhou,China,,0,0
+1607,3193,Guiyang,China,,0,0
+1608,3196,Hangzhou,China,,0,0
+1609,3199,Harbin,China,,0,0
+1610,3202,Hefei,China,,0,0
+1611,3205,Hohhot,China,,0,0
+1612,3208,Huangshan,China,,0,0
+1613,3211,Jiayuguan,China,,0,0
+1614,3214,Jinan,China,,0,0
+1615,3217,Jinghong,China,,0,0
+1616,3220,Kashgar,China,,0,0
+1617,3223,Lanzhou,China,,0,0
+1618,3226,Lhasa,China,,0,0
+1619,3229,Lijiang,China,,0,0
+1620,3232,Luoyang,China,,0,0
+1621,3235,Nanchang,China,,0,0
+1622,3238,Nanjing,China,,0,0
+1623,3241,Nanning,China,,0,0
+1624,3244,Ningbo,China,,0,0
+1625,3247,Qingdao,China,,0,0
+1626,3250,Quanzhou,China,,0,0
+1627,3253,Sanya,China,,0,0
+1628,3256,Shangri-La,China,,0,0
+1629,3259,Shenyang,China,,0,0
+1630,3262,Shijiazhuang,China,,0,0
+1631,3265,Suzhou,China,,0,0
+1632,3268,Taian,China,,0,0
+1633,3271,Taiyuan,China,,0,0
+1634,3274,Tianjin,China,,0,0
+1635,3277,Tianshui,China,,0,0
+1636,3280,Urumqi,China,,0,0
+1637,3283,Wenzhou,China,,0,0
+1638,3286,Wuhan,China,,0,0
+1639,3289,Wuxi,China,,0,0
+1640,3292,Xiamen,China,,0,0
+1641,3295,Xining,China,,0,0
+1642,3298,Xuzhou,China,,0,0
+1643,3301,Yangzhou,China,,0,0
+1644,3304,Yichang,China,,0,0
+1645,3307,Yinchuan,China,,0,0
+1646,3310,Zhangjiajie,China,,0,0
+1647,3313,Zhangye,China,,0,0
+1648,3316,Zhanjiang,China,,0,0
+1649,3319,Zhengzhou,China,,0,0
+1650,3322,Zhuhai,China,,0,0
+1651,3325,Armenia,Colombia,,0,0
+1652,3328,Cali,Colombia,,0,0
+1653,3331,Pereira,Colombia,,0,0
+1654,3334,Salento,Colombia,,0,0
+1655,3337,Santa-Marta,Colombia,,0,0
+1656,3340,Aitutaki,Cook Islands,,0,0
+1657,3343,Drake-Bay,Costa Rica,,0,0
+1658,3346,Jaco,Costa Rica,,0,0
+1659,3349,La-Fortuna,Costa Rica,,0,0
+1660,3352,Liberia,Costa Rica,,0,0
+1661,3355,Limon,Costa Rica,,0,0
+1662,3358,Monteverde,Costa Rica,,0,0
+1663,3361,Playa-Flamingo,Costa Rica,,0,0
+1664,3364,Playa-Hermosa,Costa Rica,,0,0
+1665,3367,Puntarenas,Costa Rica,,0,0
+1666,3370,Quepos,Costa Rica,,0,0
+1667,3373,San-Jose,Costa Rica,,0,0
+1668,3376,Santa-Teresa,Costa Rica,,0,0
+1669,3379,Tamarindo,Costa Rica,,0,0
+1670,3382,Ayia-Napa,Cyprus,,0,0
+1671,3385,Larnaca,Cyprus,,0,0
+1672,3388,Limassol,Cyprus,,0,0
+1673,3391,Paphos,Cyprus,,0,0
+1674,3394,Protaras,Cyprus,,0,0
+1675,3397,Cabarete,Dominican Republic,,0,0
+1676,3400,La-Romana,Dominican Republic,,0,0
+1677,3403,Las-Terrenas,Dominican Republic,,0,0
+1678,3406,Puerto-Plata,Dominican Republic,,0,0
+1679,3409,Punta-Cana,Dominican Republic,,0,0
+1680,3412,Santo-Domingo,Dominican Republic,,0,0
+1681,3415,Cuenca,Ecuador,,0,0
+1682,3418,Guayaquil,Ecuador,,0,0
+1683,3421,Manta,Ecuador,,0,0
+1684,3424,Mindo,Ecuador,,0,0
+1685,3427,Otavalo,Ecuador,,0,0
+1686,3430,Puerto-Lopez,Ecuador,,0,0
+1687,3433,Quito,Ecuador,,0,0
+1688,3436,San-Salvador,Ecuador,,0,0
+1689,3439,Tena,Ecuador,,0,0
+1690,3442,La-Libertad,El Salvador,,0,0
+1691,3445,San-Salvador,Ecuador,,0,0
+1692,3448,Santa-Ana,El Salvador,,0,0
+1693,3451,Tartu,Estonia,,0,0
+1694,3454,Addis-Ababa,Ethiopia,,0,0
+1695,3457,Lalibela,Ethiopia,,0,0
+1696,3460,Banjul,Gambia,,0,0
+1697,3463,Accra,Ghana,,0,0
+1698,3466,Kumasi,Ghana,,0,0
+1699,3469,Ilulissat,Greenland,,0,0
+1700,3472,Nuuk,Greenland,,0,0
+1701,3475,Antigua,Guatemala,,0,0
+1702,3478,Flores,Guatemala,,0,0
+1703,3481,Guatemala-City,Guatemala,,0,0
+1704,3484,Panajachel,Guatemala,,0,0
+1705,3487,Puerto-Quetzal,Guatemala,,0,0
+1706,3490,Quetzaltenango,Guatemala,,0,0
+1707,3493,San-Pedro-La-Laguna,Guatemala,,0,0
+1708,3496,Georgetown,Guyana,,0,0
+1709,3499,La-Ceiba,Honduras,,0,0
+1710,3502,Roatan,Honduras,,0,0
+1711,3505,San-Pedro-Sula,Honduras,,0,0
+1712,3508,Tegucigalpa,Honduras,,0,0
+1713,3511,Tela,Honduras,,0,0
+1714,3514,Ashdod,Israel,,0,0
+1715,3517,Eilat,Israel,,0,0
+1716,3520,Haifa,Israel,,0,0
+1717,3523,Herzliya,Israel,,0,0
+1718,3526,Nazareth,Israel,,0,0
+1719,3529,Sde-Boker,Israel,,0,0
+1720,3532,Tel-Aviv,Israel,,0,0
+1721,3535,Falmouth,Jamaica,,0,0
+1722,3538,Kingston,Jamaica,,0,0
+1723,3541,Montego-Bay,Jamaica,,0,0
+1724,3544,Negril,Jamaica,,0,0
+1725,3547,Ocho-Rios,Jamaica,,0,0
+1726,3550,Runaway-Bay,Jamaica,,0,0
+1727,3553,Madaba,Jordan,,0,0
+1728,3556,Diani-Beach,Kenya,,0,0
+1729,3559,Malindi,Kenya,,0,0
+1730,3562,Mombasa,Kenya,,0,0
+1731,3565,Kuwait-City,Kuwait,,0,0
+1732,3568,Beirut,Lebanon,,0,0
+1733,3571,Kaunas,Lithuania,,0,0
+1734,3574,Klaipeda,Lithuania,,0,0
+1735,3577,Trakai,Lithuania,,0,0
+1736,3580,Antananarivo,Madagascar,,0,0
+1737,3583,Lilongwe,Malawi,,0,0
+1738,3586,Bamako,Mali,,0,0
+1739,3589,Acapulco,Mexico,,0,0
+1740,3592,Bucerias,Mexico,,0,0
+1741,3595,Cancun,Mexico,,0,0
+1742,3598,Cozumel,Mexico,,0,0
+1743,3601,Cuernavaca,Mexico,,0,0
+1744,3604,Ensenada,Mexico,,0,0
+1745,3607,Guadalajara,Mexico,,0,0
+1746,3610,Huatulco,Mexico,,0,0
+1747,3613,Isla-Holbox,Mexico,,0,0
+1748,3616,Ixtapa,Mexico,,0,0
+1749,3619,La-Paz,Bolivia,,0,0
+1750,3622,Manzanillo,Mexico,,0,0
+1751,3625,Mazatlan,Mexico,,0,0
+1752,3628,Merida,Mexico,,0,0
+1753,3631,Mexico-City,Mexico,,0,0
+1754,3634,Monterrey,Mexico,,0,0
+1755,3637,Palenque,Mexico,,0,0
+1756,3640,Playa-del-Carmen,Mexico,,0,0
+1757,3643,Progreso,Mexico,,0,0
+1758,3646,Puerto-Escondido,Mexico,,0,0
+1759,3649,Puerto-Vallarta,Mexico,,0,0
+1760,3652,Rosarito,Mexico,,0,0
+1761,3655,San-Miguel-de-Allende,Mexico,,0,0
+1762,3658,Sayulita,Mexico,,0,0
+1763,3661,Tijuana,Mexico,,0,0
+1764,3664,Todos-Santos,Mexico,,0,0
+1765,3667,Tulum,Mexico,,0,0
+1766,3670,Veracruz,Mexico,,0,0
+1767,3673,Chisinau,Moldova,,0,0
+1768,3676,Ulaanbaatar,Mongolia,,0,0
+1769,3679,Budva,Montenegro,,0,0
+1770,3682,Kotor,Montenegro,,0,0
+1771,3685,Niksic,Montenegro,,0,0
+1772,3688,Podgorica,Montenegro,,0,0
+1773,3691,Zabljak,Montenegro,,0,0
+1774,3694,Maputo,Mozambique,,0,0
+1775,3697,Kalaw,Myanmar,,0,0
+1776,3700,Nyaungshwe,Myanmar,,0,0
+1777,3703,Swakopmund,Namibia,,0,0
+1778,3706,Walvis-Bay,Namibia,,0,0
+1779,3709,Windhoek,Namibia,,0,0
+1780,3712,Noumea,New Caledonia,,0,0
+1781,3715,Managua,Nicaragua,,0,0
+1782,3718,San-Juan-del-Sur,Nicaragua,,0,0
+1783,3721,Khasab,Oman,,0,0
+1784,3724,Salalah,Oman,,0,0
+1785,3727,Boquete,Panama,,0,0
+1786,3730,Colon,Panama,,0,0
+1787,3733,Gamboa,Panama,,0,0
+1788,3736,Panama-City,Panama,,0,0
+1789,3739,San-Blas-Islands,Panama,,0,0
+1790,3742,Santa-Catalina,Panama,,0,0
+1791,3745,Cajamarca,Peru,,0,0
+1792,3748,Chachapoyas,Peru,,0,0
+1793,3751,Chiclayo,Peru,,0,0
+1794,3754,Huaraz,Peru,,0,0
+1795,3757,Ica,Peru,,0,0
+1796,3760,Nazca,Peru,,0,0
+1797,3763,Paracas,Peru,,0,0
+1798,3766,Pisco,Peru,,0,0
+1799,3769,Puerto-Maldonado,Peru,,0,0
+1800,3772,Arecibo,Puerto Rico,,0,0
+1801,3775,Fajardo,Puerto Rico,,0,0
+1802,3778,Luquillo,Puerto Rico,,0,0
+1803,3781,Ponce,Puerto Rico,,0,0
+1804,3784,Utuado,Puerto Rico,,0,0
+1805,3787,Vieques,Puerto Rico,,0,0
+1806,3790,Dakar,Senegal,,0,0
+1807,3793,Busan,South Korea,,0,0
+1808,3796,Gyeongju,South Korea,,0,0
+1809,3799,Incheon,South Korea,,0,0
+1810,3802,Jeju,South Korea,,0,0
+1811,3805,Jeonju,South Korea,,0,0
+1812,3808,Pyeongchang,South Korea,,0,0
+1813,3811,Suwon,South Korea,,0,0
+1814,3814,Yongin,South Korea,,0,0
+1815,3817,Batticaloa,Sri Lanka,,0,0
+1816,3820,Kalutara,Sri Lanka,,0,0
+1817,3823,Nuwara-Eliya,Sri Lanka,,0,0
+1818,3826,Paramaribo,Suriname,,0,0
+1819,3829,Hualien,Taiwan,,0,0
+1820,3832,Kaohsiung,Taiwan,,0,0
+1821,3835,Taichung,Taiwan,,0,0
+1822,3838,Taipei,Taiwan,,0,0
+1823,3841,Dar-es-Salaam,Tanzania,,0,0
+1824,3844,Moshi,Tanzania,,0,0
+1825,3847,Lome,Togo,,0,0
+1826,3850,Neiafu,Tonga,,0,0
+1827,3853,Djerba,Tunisia,,0,0
+1828,3856,Gabes,Tunisia,,0,0
+1829,3859,Hammamet,Tunisia,,0,0
+1830,3862,Monastir,Tunisia,,0,0
+1831,3865,Sousse,Tunisia,,0,0
+1832,3868,Tunis,Tunisia,,0,0
+1833,3871,Jinja,Uganda,,0,0
+1834,3874,Kampala,Uganda,,0,0
+1835,3877,Colonia-del-Sacramento,Uruguay,,0,0
+1836,3880,Montevideo,Uruguay,,0,0
+1837,3883,Punta-del-Este,Uruguay,,0,0
+1838,3886,Samarkand,Uzbekistan,,0,0
+1839,3889,Tashkent,Uzbekistan,,0,0
+1840,3892,Port-Vila,Vanuatu,,0,0
+1841,3895,Caracas,Venezuela,,0,0
+1842,3898,Harare,Zimbabwe,,0,0
+1843,3901,Victoria-Falls,Zimbabwe,,0,0
+1844,3904,Gwalior,India,,0,0
+1845,3907,Haridwar,India,,0,0
+1846,3910,Kannur,India,,0,0
+1847,3913,Khajuraho,India,,0,0
+1848,3916,Leh,India,,0,0
+1849,3919,New-Delhi,India,,0,0
+1850,3922,Rishikesh_Duplicate,India,,0,0
+1851,3925,Thanjavur,India,,0,0
+1852,3928,Tuticorin,India,,0,0
+1853,4480,Gansbaai,South Africa,Africa,0,0
+1854,4483,Central Coast,Australia,ANZ,0,0
+1855,4488,Matamata,New Zealand,ANZ,0,0
+1856,4491,Da Lat,Vietnam,Asia,0,0
+1857,4494,Kittila,Finland,Europe,0,0
+1858,4500,San Juan,Puerto Rico,Americas,0,0
+1859,4506,Balapitiya,Sri Lanka,Asia,0,0
+1860,4509,Labuan Bajo,Indonesia,Bali,0,0
+1861,4512,Rarotonga,Cook Islands,Asia,0,0
+1862,4515,Ranchi,India,Asia,0,0
+1863,4520,Niue,Niue,Asia,0,0
+1864,4524,Appenzell,Switzerland,Europe,0,0
+1865,4527,Taipei,China,Asia,0,0
+1866,4530,Tirano,Italy,Europe,0,0
+1867,4538,Okinawa,Japan,Asia,0,0
+1868,4541,tissamaharama,Sri Lanka,Asia,0,0
+1869,4542,Albertinia,South Africa,Africa,0,0
+1870,4545,Quezon City,Philippines,Asia,0,0
+1871,4548,Isabela,Philippines,Asia,0,0
+1872,4551,Batangas,Philippines,Asia,0,0
+1873,4554,Pinswang,Austria,Europe,0,0
+1874,4557,Kozhikode,India,Asia,0,0
+1875,4560,Kassel,Germany,Europe,0,0
+1876,4563,Zugspitze,Germany,Europe,0,0
+1877,4565,Farwaniya,Kuwait,Middle East,0,0
+1878,4568,Genting Highlands,Malaysia,SEA,0,0
+1879,4571,Maasai Mara,Kenya,Africa,0,0
+1880,4574,Kingston,Jamaica,Americas,0,0
+1881,4577,San Jos‚ ,Costa Rica,Americas,0,0
+1882,4580,Hokkaido,Japan,Asia,0,0
+1883,4583,Vuokatti,Finland,Europe,0,0
+1884,4586,Turks and Caicos,USA,Americas,0,0
+1885,4589,Peublo,USA,Americas,0,0
+1886,4592,Puebla,Mexico,Americas,0,0
+1887,4595,Pokeno,New Zealand,ANZ,0,0
+1888,4598,Sierra Nevada,Spain,Europe,0,0
+1889,4601,Coventry,United Kingdom,Europe,0,0
+1890,4604,Chitwan,Nepal,Asia,0,0
+1891,4607,Miyajima,Japan,Asia,0,0
+1892,4610,Zandvoort,Netherlands,Europe,0,0
+1893,4613,Montreal,Canada,Americas,0,0
+1894,4616,Raipur,India,Asia,0,0
+1895,4619,Quebec,Canada,Americas,0,0
+1896,4622,Mississauga,Canada,Americas,0,0
+1897,4625,Moalboal,Philippines,Asia,0,0
+1898,4628,Hazyview,South Africa,Africa,0,0
+1899,4631,Dsseldorf,Germany,Europe,0,0
+1900,4634,Port Dickson,Malaysia,SEA,0,0
+1901,4637, Ei?ar,Iceland,Europe,0,0
+1902,4640,Nusa Lembongan,Indonesia,Bali,0,0
+1903,4643,Suzdal,Russia,Europe,0,0
+1904,4646,Montgomery,USA,Americas,0,0
+1905,4649,Birmingham,USA,Americas,0,0
+1906,4652,Kitzbuehel,Austria,Europe,0,0
+1907,4655,Hambantota,Sri Lanka,Asia,0,0
+1908,4658,Olomouc,Czech Republic,Europe,0,0
+1909,4661,Mellingen,Switzerland,Europe,0,0
+1910,4664,Titisee,Germany,Europe,0,0
+1911,4667,Jonkoping,Sweden,Europe,0,0
+1912,4670,Mui Ne,Vietnam,Asia,0,0
+1913,4673,Cao Bang,Vietnam,Asia,0,0
+1914,4676,Chilaw ,Sri Lanka,Asia,0,0
+1915,4679,Trincomalee,Sri Lanka,Asia,0,0
+1916,4680,Cowes,Australia,ANZ,0,0
+1917,4683,Sorrento,Australia,ANZ,0,0
+1918,4686,Bunol,Spain,Europe,0,0
+1919,4689,Portland,USA,Americas,0,0
+1920,4692,Patna,India,Asia,0,0
+1921,4694,Apulia ,Italy,Europe,0,0
+1922,4696,Port Fairy,Australia,ANZ,0,0
+1923,4698,Freiburg,Germany,Europe,0,0
+1924,4700,Alltsigh,United Kingdom,Europe,0,0
+1925,4702,Sibenik,Croatia,Europe,0,0
+1926,4706,Wokingham,United Kingdom,Europe,0,0
+1927,4709,Arizona,USA,Americas,0,0
+1928,4712,Alberobello,Italy,Europe,0,0
+1929,4715,Tambov,Russia,Europe,0,0
+1930,4718, Hampshire,United Kingdom,Europe,0,0
+1931,4721,Lancaster ,United Kingdom,Europe,0,0
+1932,4724,Arachova,Greece,Europe,0,0
+1933,4727,Siros,Greece,Europe,0,0
+1934,4730,L'aghulas,South Africa,Africa,0,0
+1935,4733,Sau? rkr¢kur,Iceland,Europe,0,0
+1936,4736,Siglufj”r?ur,Iceland,Europe,0,0
+1937,4739,Hvammstangi,Iceland,Europe,0,0
+1938,4742,Bakkafj”r?ur,Iceland,Europe,0,0
+1939,4745,Cirencester,United Kingdom,Europe,0,0
+1940,4748,Douro,Portugal,Europe,0,0
+1941,4751,Nugget Point,New Zealand,ANZ,0,0
+1942,4754,El Chalten,Argentina,Americas,0,0
+1943,4757,Iguassu Falls,Argentina,Americas,0,0
+1944,4760,Mar del Plata,Argentina,Americas,0,0
+1945,4763,Cordoba,Argentina,Americas,0,0
+1946,4766,Puerto Madryn,Argentina,Americas,0,0
+1947,4767,Manuel Antonio,Costa Rica,Americas,0,0
+1948,4768,Turrialba,Costa Rica,Americas,0,0
+1949,4769,Darjeeling,India,Asia,0,0
+1950,4770,Shillong,India,Asia,0,0
+1951,4771,Kaziranga,India,Asia,0,0
+1952,4772,Nameri,India,Asia,0,0
+1953,4773,Kalimpong,India,Asia,0,0
+1954,4774,Manas,India,Asia,0,0
+1955,4775,Siliguri,India,Asia,0,0
+1956,4776,Pelling,India,Asia,0,0
+1957,4777,Aizwal,India,Asia,0,0
+1958,4778,Namchi,India,Asia,0,0
+1959,4779,Lachen,India,Asia,0,0
+1960,4780,Lachung,India,Asia,0,0
+1961,4781,Cherrapunji?,India,Asia,0,0
+1962,4782,Bhalukpong,India,Asia,0,0
+1963,4783,Kohima,India,Asia,0,0
+1964,4784,Dirang,India,Asia,0,0
+1965,4785,Tawang,India,Asia,0,0
+1966,4786,Bomdila,India,Asia,0,0
+1967,4787,Tezpur,India,Asia,0,0
+1968,4788,Agartala,India,Asia,0,0
+1969,4789,Jorhat,India,Asia,0,0
+1970,4790,Dibrugarh,India,Asia,0,0
+1971,4791,Pobitora,India,Asia,0,0
+1972,4792,Champhai ,India,Asia,0,0
+1973,4793,Jaldapara,India,Asia,0,0
+1974,4794,Lataguri,India,Asia,0,0
+1975,4795,Rishikesh,India,Asia,0,0
+1976,4796,Bhadravathi,India,Asia,0,0
+1977,4797,Alwar,India,Asia,0,0
+1978,4798,Behror,India,Asia,0,0
+1979,4799,Bagar,India,Asia,0,0
+1980,4800,Sawai Madhopur,India,Asia,0,0
+1981,4801,Tijara,India,Asia,0,0
+1982,4802,Binsar,India,Asia,0,0
+1983,4803,Alappuzha,India,Asia,0,0
+1984,4804,Coorg,India,Asia,0,0
+1985,4805,Sakleshpur,India,Asia,0,0
+1986,4806,Thekaddy,India,Asia,0,0
+1987,4807,Wayanad District,India,Asia,0,0
+1988,4808,Bekal,India,Asia,0,0
+1989,4809,Anandpur Sahib,India,Asia,0,0
+1990,4810,Kollam,India,Asia,0,0
+1991,4811,Poovar,India,Asia,0,0
+1992,4812,Vagamon,India,Asia,0,0
+1993,4813,Palakkad,India,Asia,0,0
+1994,4814,Guruvayur,India,Asia,0,0
+1995,4815,Santiniketan,India,Asia,0,0
+1996,4816,Raipur Pali,India,Asia,0,0
+1997,4817,Ajmer,India,Asia,0,0
+1998,4818,Kodaikanal,India,Asia,0,0
+1999,4819,Karaikudi,India,Asia,0,0

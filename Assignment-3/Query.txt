@@ -1,0 +1,13 @@
+select main_table.lead_id,main_table.lead_ts,main_table.cs_id,sub_table.first_lead,sub_table.stage2_ts
+from (select leads.lead_id as lead_id,leads.lead_ts as lead_ts,leads.customer_id as cs_id
+from public.leads
+where extract(year from leads.lead_ts)='2021' and extract(month from leads.lead_ts)='06' 
+) as main_table , (select table_1.cs_id,table_1.first_lead,table_2.stage2_ts
+from (select leads.customer_id as cs_id,min(leads.lead_ts) as first_lead
+from public.leads 
+group by leads.customer_id
+) as table_1 left join (select leads.customer_id as cs_id,min(stage2.stage2_ts) as stage2_ts
+from public.leads as leads,public.stage2 as stage2
+where leads.lead_id=stage2.lead_id group by leads.customer_id) as table_2 on table_1.cs_id=table_2.cs_id
+) as sub_table 
+where main_table.cs_id=sub_table.cs_id
